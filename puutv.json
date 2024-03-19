@@ -2,9 +2,8 @@
   {
     "channel": "S SPORT",
     "url": "https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/ssport.m3u8",
-    "http_referrer": justsporthd7.xyz/,
-    "http_origin": justsporthd7.xyz,
-    "user_agent": null
+    "http_referrer": https://justsporthd7.xyz/,
+    "user_agent": Mozilla/5.0 (Linux; Android 14; SM-A346E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.119 Mobile Safari/537.36
   },
   {
     "channel": "1001Noites.br",
