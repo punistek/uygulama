@@ -2,8 +2,8 @@
   {
     "channel": "S SPORT",
     "url": "https://crosproxy.xyz/?url=https://streamnet4.xyz/hls/ssport.m3u8",
-    "http_referrer": ,
-    "http_origin": ,
+    "http_referrer": null,
+    "http_origin": null,
     "user_agent": null
   },
   {
