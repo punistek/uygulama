@@ -1,90 +1,35 @@
-#EXTINF:-1 tvg-id="" tvg-name="T 1 FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/Q/ou/11887/Thumbnail.png?v=636926485630162197" group-title="ULUSAL TV",TRT 1
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T 2 FHD" tvg-logo="http://72register34.com/logos/oval/tr/ulusal/trt2fhd.png" group-title="ULUSAL TV",TRT 2 
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/Q/Eq/13351/Thumbnail.png?v=636932873338148072" group-title="ULUSAL TV",ATV 
-#EXTVLCOPT:http-user-agent=Lavf53.32.100
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL D FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/-/EU/11785/Thumbnail.png?v=636918654485335758" group-title="ULUSAL TV",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHOW TV FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/E/aM/11889/Thumbnail.png?v=636932880780190994" group-title="ULUSAL TV",SHOW TV 
-https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR TV FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/z/Bk/11905/Thumbnail.png?v=636932878711499780" group-title="ULUSAL TV",STAR TV 
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX TV FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/2/HH/11906/Thumbnail.png?v=638433526771493494" group-title="ULUSAL TV",NOW TV
-https://c.fulltvizle.com/fox/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEYAZ TV FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/N/NI/13571/Thumbnail.png?v=636962983923810541" group-title="ULUSAL TV",BEYAZ TV
-https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 8 FHD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/a/WI/13727/Thumbnail.png?v=636948061871631256" group-title="ULUSAL TV",TV 8 
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 8.5 HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/j/3s/13867/Thumbnail.png?v=636948472402801171" group-title="ULUSAL TV",TV 8.5 
-https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/k/0U/13732/Thumbnail.png?v=636934334673308427" group-title="ULUSAL TV",KANAL 7 
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KANAL 7 AVRUPA HD" tvg-logo="http://72register34.com/logos/oval/tr/ulusal/kanal7avrupahd.png" group-title="ULUSAL TV",KANAL 7 AVRUPA 
-https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CINE5" tvg-logo="https://i.imgur.com/AmcOAIY.png" group-title="ULUSAL TV",CINE5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w491986358.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEVE 2 HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/h/4C/11904/Thumbnail.png?v=638356364133347347" group-title="ULUSAL TV",TEVE 2 HD
-https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A2 TV FHD" tvg-logo="http://72register34.com/logos/oval/tr/ulusal/a2hd.png" group-title="ULUSAL TV",A2 TV
-https://c.fulltvizle.com/a2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TR:360 TV HD" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/g/tH/13726/Thumbnail.png?v=637688915842503345" group-title="ULUSAL TV",TR:360 TV HD
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FLASH TV HD" tvg-logo="https://pbs.twimg.com/media/F0VnmBEXsAA1TeD?format=jpg&name=large" group-title="ULUSAL TV",FLASH TV
-https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="WOMAN TV" tvg-logo="https://i.ibb.co/bHTjDyk/woman-tv.png" group-title="ULUSAL TV",WOMAN TV
-https://s01.webcaster.cloud/wmtv/live_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MARVEL" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",MARVEL
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401331&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 1
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401327&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 2
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401328&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 3" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 3
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401329&extension=.m3u8
 
-#EXTINF:-1 tvg-name="TRT TÃ¼rk" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Turk" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/11787778.png" group-title="ULUSAL TV",TRT TÃ¼rk
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BÄ°LÄ°MKURGU 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",BÄ°LÄ°MKURGU 1
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401335&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX BÄ°LÄ°MKURGU 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",BÄ°LÄ°MKURGU 2
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401336&extension=.m3u8
 
-#EXTINF:-1 tvg-name="TRT Avaz" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_Avaz" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027789.png" group-title="ULUSAL TV",TRT Avaz
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX VÄ°ZYON 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",VÄ°ZYON 1
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401344&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX VÄ°ZYON 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",VÄ°ZYON 2
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401345&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX GOLD MIX" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",GOLD MIX
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401338&extension=.m3u8
 
-#EXTINF:-1 tvg-name="TRT KÃ¼rdi" tvg-language="Kurdish" tvg-country="IR" tvg-id="TRT_Kurdi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/14812637.png" group-title="ULUSAL TV",TRT KÃ¼rdi
-https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT Arabi" tvg-language="Arabic" tvg-country="SA" tvg-id="TRT_Arabi" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7027905.png" group-title="ULUSAL TV",TRT Arabi
-https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-name="TRT World" tvg-language="English" tvg-country="USA" tvg-id="TRT_World" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/7834584.png" group-title="ULUSAL TV",TRT World
-https://tv-trtworld.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png" group-title="ULUSAL TV",Meclis TV
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://www.artidijitalmedya.com/cdn/channels/v1/tvos/logo_97.png?v=6" group-title="ULUSAL TV",LIFE TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Turk" tvg-logo="https://i.imgur.com/shCCEnA.png" group-title="ULUSAL TV",Balkan Turk
-https://live.euromediacenter.com/balkanturktv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name=" TRT AVAZ" tvg-logo="http://72register34.com/logos/oval/tr/dini/diyanettvfhd.png" group-title="ULUSAL TV", TRT Diyanet TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Aile TV" tvg-logo="http://assets.tvcdn.net/4ca28592-03c0-44cb-85c5-29216afb1bf4.png" group-title="ULUSAL TV",Aile TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/aile-tv/playlist/0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Asr-i serif TV" tvg-logo="http://assets.tvcdn.net/8d763e76-e879-4e05-a451-8d39b77838e0.png" group-title="ULUSAL TV",Asr-i serif TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-serif-tv/playlist/0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Kuran-i Kerim Dersleri" tvg-logo="http://assets.tvcdn.net/425981cf-189f-45c1-ad8d-6b0ccd2a12d5.png" group-title="ULUSAL TV",Kuran-i Kerim Dersleri
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/kurani-kerim-dersleri-tv/playlist/0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Islam TV" tvg-logo="http://assets.tvcdn.net/0a36c783-1a76-448d-b0d9-98add4aeab2d.png" group-title="ULUSAL TV",Islam TV
-
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/islamtv/playlist/0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Ilmihal TV" tvg-logo="http://assets.tvcdn.net/62afff37-79e9-441b-a63e-f1fba2c22182.png" group-title="ULUSAL TV",Ilmihal TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Asr-i saadet TV" tvg-logo="http://assets.tvcdn.net/cfd07412-b7c1-4a85-84f5-ac743f8f1a84.png" group-title="ULUSAL TV",Asr-i saadet TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/asr-i-saadet-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ilahiler TV" tvg-logo="http://assets.tvcdn.net/51a438e2-9c50-45fc-afd3-2764cc8714a8.png" group-title="ULUSAL TV",Ilahiler TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilahiler-tv/playlist/0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Vaaz TV" tvg-logo="http://assets.tvcdn.net/19a58ffe-437d-4272-9ccc-34bb839634e1.png" group-title="ULUSAL TV",Vaaz TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/vaaz-tv/playlist/0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Hadi TV Turkce" tvg-logo="http://assets.tvcdn.net/c2efb51d-645d-41e2-bb9e-7068e41325b7.png" group-title="ULUSAL TV",Hadi TV Turkce
-https://live.ishiacloud.com/hls/37166b77-128d-425c-91bf-8195071c217d_720p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Mukabele TV" tvg-logo="https://assets.tvcdn.net/23b391ac-5edb-4e37-8664-27da64fb0785.png" group-title="ULUSAL TV",Mukabele TV
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/mukabele-tv/playlist/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX SÄ°NEMA TÃœRK 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",SÄ°NEMA TÃœRK 1
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401341&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX SÄ°NEMA TÃœRK 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",SÄ°NEMA TÃœRK 2
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401342&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX SÄ°NEMA TÃœRK 3" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",SÄ°NEMA TÃœRK 3
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401343&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX TÃœRKÃ‡E SHOW" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",TÃœRKÃ‡E SHOW
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401340&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDÄ° 90 LAR" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",KOMEDÄ° 90 LAR
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401339&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX YEÅÄ°LÃ‡AM" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",YEÅÄ°LÃ‡AM
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401346&extension=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX 007" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",007
+http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401330&extension=.m3u8
