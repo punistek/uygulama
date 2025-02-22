@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX MARVEL" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",MARVEL
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX MARVEL" tvg-logo="https://i.imgur.com/mNJsT3B.png"
 http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401331&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 1
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 1" tvg-logo="https://i.imgur.com/mNJsT3B.png"
 http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401327&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 2
+#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 2" tvg-logo="https://i.imgur.com/mNJsT3B.png"
 http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401328&extension=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 3" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 3
 http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401329&extension=.m3u8
