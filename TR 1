@@ -1,37 +1,20 @@
 #EXTINF:-1 tvg-id="CINE10" tvg-name="REDBOX MARVEL" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",MARVEL
 http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401331&extension=.m3u8
 
-#EXTINF:-1 tvg-id="CINE11" tvg-name="REDBOX AKSÄ°YON 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 1
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401327&extension=.m3u8
+#EXTINF:-1 tvg-id="EPICDRAMA-0xa" tvg-name="EPIC DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/a/ab/Epic_Drama_logo.png/100px-Epic_Drama_logo.png" group-title="âš¡ï¸ PLAY SINEMA",EPIC DRAMA HD
+http://line.onlvip.com:80/live/Degets-mart57/1909.20*/31100
 
-#EXTINF:-1 tvg-id="CINE12" tvg-name="REDBOX AKSÄ°YON 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 2
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401328&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX AKSÄ°YON 3" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",AKSÄ°YON 3
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401329&extension=.m3u8
+#EXTINF:-1 tvg-id="PUU TV" tvg-name="FILM SCREEN" tvg-logo="http://188.214.27.75/pcnn/filmscreen.png" group-title="âš¡ï¸ PLAY SINEMA",FILM SCREEN
+http://line.onlvip.com:80/live/Degets-mart57/1909.20*/46035
 
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX BÄ°LÄ°MKURGU 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",BÄ°LÄ°MKURGU 1
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401335&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX BÄ°LÄ°MKURGU 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",BÄ°LÄ°MKURGU 2
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401336&extension=.m3u8
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="BEIN MOVIES TURK" tvg-logo="http://188.214.27.75/pcnn/turk.png" group-title="âš¡ï¸ PLAY SINEMA",BEIN MOVIES TURK
+http://line.onlvip.com:80/live/Degets-mart57/1909.20*/5876
 
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX VÄ°ZYON 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",VÄ°ZYON 1
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401344&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX VÄ°ZYON 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",VÄ°ZYON 2
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401345&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX GOLD MIX" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",GOLD MIX
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401338&extension=.m3u8
+#EXTINF:-1 tvg-id="SNMTV-0xa" tvg-name="SINEMA HD" tvg-logo="http://188.214.27.75/pcnn/sinematv.png" group-title="âš¡ï¸ PLAY SINEMA",SINEMA HD
+http://line.onlvip.com:80/live/Degets-mart57/1909.20*/2207
 
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX SÄ°NEMA TÃœRK 1" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",SÄ°NEMA TÃœRK 1
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401341&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX SÄ°NEMA TÃœRK 2" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",SÄ°NEMA TÃœRK 2
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401342&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX SÄ°NEMA TÃœRK 3" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",SÄ°NEMA TÃœRK 3
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401343&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX TÃœRKÃ‡E SHOW" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",TÃœRKÃ‡E SHOW
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401340&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX KOMEDÄ° 90 LAR" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",KOMEDÄ° 90 LAR
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401339&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX YEÅÄ°LÃ‡AM" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",YEÅÄ°LÃ‡AM
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401346&extension=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="REDBOX 007" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",007
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401330&extension=.m3u8
+#EXTINF:-1 tvg-id="sinema2hd.tr" tvg-name="SINEMA 2 HD" tvg-logo="http://188.214.27.75/pcnn/sinematv2.png" group-title="âš¡ï¸ PLAY SINEMA",SINEMA 2 HD
+http://line.onlvip.com:80/live/Degets-mart57/1909.20*/15089
+
+#EXTINF:-1 tvg-id="sinemaaksiyonhd.tr" tvg-name="SINEMA AKSIYON HD" tvg-logo="http://188.214.27.75/pcnn/sinematvaksiyon.png" group-title="âš¡ï¸ PLAY SINEMA",SINEMA AKSIYON HD
+http://line.onlvip.com:80/live/Degets-mart57/1909.20*/2205
