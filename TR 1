@@ -1,8 +1,8 @@
 #EXTINF:-1 tvg-id="CINE10" tvg-name="REDBOX MARVEL" tvg-logo="https://i.imgur.com/mNJsT3B.png" group-title="âš¡ï¸ REDBOX",MARVEL
-http://lookontv.net:2095/play/live.php?mac=00:1A:79:06:59:db&stream=401331&extension=.m3u8
+http://line.onlvip.com/live/Degets-mart57/1909.20*/46035.m3u8
 
 #EXTINF:-1 tvg-id="EPICDRAMA-0xa" tvg-name="EPIC DRAMA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/a/ab/Epic_Drama_logo.png/100px-Epic_Drama_logo.png" group-title="âš¡ï¸ PLAY SINEMA",EPIC DRAMA HD
-http://line.onlvip.com:80/live/Degets-mart57/1909.20*/31100
+http://line.onlvip.com/live/Degets-mart57/1909.20*/46035.m3u8
 
 #EXTINF:-1 tvg-id="PUU TV" tvg-name="FILM SCREEN" tvg-logo="http://188.214.27.75/pcnn/filmscreen.png" group-title="âš¡ï¸ PLAY SINEMA",FILM SCREEN
 http://line.onlvip.com:80/live/Degets-mart57/1909.20*/46035
