@@ -1,537 +1,1348 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="123tv.de" tvg-logo="https://i.imgur.com/slSUDNX.png" group-title="Undefined",1-2-3 TV (270p)
-https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://i.imgur.com/es4Bslg.png" group-title="Undefined",3sat (720p) [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
-#EXTINF:-1 tvg-id="atv.de" tvg-logo="https://i.imgur.com/tupATym.png" group-title="Undefined",a.tv (1080p) [Not 24/7]
-https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="AdriaMusicTelevision.de" tvg-logo="https://i.imgur.com/QoDpnKg.png" group-title="Music",ADRIA Music (1080p)
-https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Daily Animated (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/daily_animated_1/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Daily Live Action (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Home Movies (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/test-2/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Mr. Pickles (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Primal (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Squidbillies (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Superjail! (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/superjail/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Adult Swim Tim and Eric (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream_de.m3u8
-#EXTINF:-1 tvg-id="AlexBerlin.de" tvg-logo="https://i.imgur.com/eTmHk4e.png" group-title="Undefined",Alex Berlin (1080p) [Not 24/7]
-https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AllgauTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/512px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="Undefined",Allgäu TV (1080p)
-https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AltenburgTV.de" tvg-logo="https://i.imgur.com/3JriZGR.png" group-title="Undefined",Altenburg TV (1080p)
-https://58de7a369a9c4.streamlock.net/abgtv/abgtv_1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="AngelTVEurope.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Europe (720p)
-https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AnixePlus.de" tvg-logo="https://i.imgur.com/hvGJ2oa.png" group-title="Undefined",Anixe + (360p)
-https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
-#EXTINF:-1 tvg-id="AnixeHDSerie.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/512px-Anixe_HD.svg.png" group-title="Undefined",Anixe HD Serie (360p)
-https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1 tvg-id="ARDalpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/512px-ARD_alpha.svg.png" group-title="Undefined",ARD-alpha (720p)
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
-#EXTINF:-1 tvg-id="AristoTV.de" tvg-logo="https://i.imgur.com/DLVjeno.png" group-title="Undefined",Aristo TV (360p)
-https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-#EXTINF:-1 tvg-id="ARTEGermany.de" tvg-logo="https://i.imgur.com/d6YP7La.png" group-title="Entertainment",ARTE (720p) [Geo-blocked]
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
-#EXTINF:-1 tvg-id="AstroTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/19414-1.png" group-title="Undefined",AstroTV (1080p) [Not 24/7]
-https://ythls.onrender.com/channel/UCwS3E2NaN3uorr9wf2_i6Cg.m3u8
-#EXTINF:-1 tvg-id="AugsburgTV.de" tvg-logo="https://i.imgur.com/27AKMUL.png" group-title="Undefined",Augsburg TV (1080p)
-https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BadenTV.de" tvg-logo="https://i.imgur.com/L6vE9Bz.png" group-title="Undefined",Baden TV (1080p) [Not 24/7]
-http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-#EXTINF:-1 tvg-id="BadenTVSud.de" tvg-logo="https://badentvsued.s3.welocal.cloud/sources/60631840dfa86.png" group-title="Undefined",Baden TV Süd (480p)
-https://cdn.icu.de/rtplive/smil:btvsued.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="BibelTV.de" tvg-logo="https://i.imgur.com/lVhxh1R.png" group-title="Undefined",Bibel TV (720p)
-https://bibint01.iptv-playoutcenter.de/bibint01/bibint01.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="BibelTVImpuls.de" tvg-logo="https://i.imgur.com/k4tbW3W.png" group-title="Undefined",Bibel TV Impuls (720p)
-https://bibeltv02.iptv-playoutcenter.de/bibeltv02/bibeltv02.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="BibelTVMusik.de" tvg-logo="https://i.imgur.com/yIqOcP5.png" group-title="Music",Bibel TV Musik (720p)
-https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="BLKRegionalTV.de" tvg-logo="https://i.imgur.com/JLgnPG1.png" group-title="Undefined",BLK TV (1080p) [Not 24/7]
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV EMEA Live Event (720p)
-https://bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.uk" tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Europe (720p)
-https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-logo="https://i.imgur.com/xzJDNs5.png" group-title="Undefined",BR Fernsehen Nord (720p) [Geo-blocked]
-https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
-#EXTINF:-1 tvg-id="BRFernsehenSud.de" tvg-logo="https://i.imgur.com/wfqDL6Z.png" group-title="Undefined",BR Fernsehen Süd (720p)
-https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="SachsenFernsehenChemnitz.de" tvg-logo="https://i.imgur.com/4SEAbVf.png" group-title="Undefined",Chemnitz Fernsehen (1080p)
-https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCEurope.uk" tvg-logo="https://i.imgur.com/B6sfpDa.png" group-title="Business" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",CNBC Europe (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s65/index.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DaVinci.de" tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Undefined",Da Vinci
-http://sc.id-tv.kz/DaVinci_38_39.m3u8
-#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://i.imgur.com/tGHLJSF.png" group-title="Undefined",Das Erste (720p)
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
-#EXTINF:-1 tvg-id="DASDING908.de" tvg-logo="https://i.imgur.com/rR44kv4.png" group-title="Undefined",DASDING 90.8 (720p)
-https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
-#EXTINF:-1 tvg-id="DeluxeDance.de" tvg-logo="https://i.imgur.com/Qu7t15Y.png" group-title="Undefined",Deluxe Dance (1080p) [Geo-blocked]
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeFlashback.de" tvg-logo="https://i.imgur.com/EjZa6eK.png" group-title="Undefined",Deluxe Flashback (1080p) [Geo-blocked]
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65185/65185_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeLoungeHD.de" tvg-logo="https://i.imgur.com/DnMzWiG.png" group-title="Music",Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 tvg-id="DeluxeMusic.de" tvg-logo="https://i.imgur.com/XWWTrKW.png" group-title="Music",Deluxe Music (720p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-id="DeluxeRap.de" tvg-logo="https://i.imgur.com/s3h67hx.png" group-title="Undefined",Deluxe Rap (1080p) [Geo-blocked]
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-#EXTINF:-1 tvg-id="DerAktionaerTV.de" tvg-logo="https://i.imgur.com/5bHrYoD.png" group-title="Business",Der Aktionär TV (720p)
-https://live2.telvi.de/hls/aktionaertv.m3u8
-#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-logo="https://i.imgur.com/MGKbHPT.png" group-title="Music",Deutsches Musik Fernsehen (540p) [Not 24/7]
-http://tv.artcom-venture.de:1322/dmf/tv.m3u8
-#EXTINF:-1 tvg-id="SachsenFernsehenDresden.de" tvg-logo="https://i.imgur.com/rnvprGj.png" group-title="Undefined",Dresden Fernsehen (1080p) [Not 24/7]
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="DWDeutsch.de" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148",DW (480p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
-http://ott-cdn.ucom.am/s26/index.m3u8
-#EXTINF:-1 tvg-id="DWDeutschPlus.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Deutsch+ (1080p) [Geo-blocked]
-https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
-#EXTINF:-1 tvg-id="earthTV.de" tvg-logo="https://i.imgur.com/xIc5vKl.png" group-title="Education;Outdoor;Relax",earthTV (1080p)
-https://ythls.onrender.com/channel/UCRuyAVeVd7oUwh0LWmxxBBQ.m3u8
-#EXTINF:-1 tvg-id="EbS.be" tvg-logo="https://i.imgur.com/DIIRPNN.png" group-title="Legislative",EbS Live (Europe by Satellite) (1080p)
-https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
-#EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="Legislative",EbS+ Live (Europe by Satellite) (1080p)
-https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
-#EXTINF:-1 tvg-id="emsTVLingen.de" tvg-logo="https://i.imgur.com/Yo1GMku.png" group-title="Undefined",ems TV Lingen (280p)
-https://5889e7d0d6e28.streamlock.net/ev1tv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ErzTVStollberg.de" tvg-logo="https://i.imgur.com/6FHl9B1.png" group-title="Undefined",Erz-TV Stollberg (576p)
-https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EuroAlTV.de" tvg-logo="https://i.imgur.com/0GrDAWx.png" group-title="Undefined",EuroAl TV (720p)
-http://5.135.92.131:1935/live/euroAl/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTNEurope.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN Europe (720p) [Not 24/7]
-https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTNGermany.de" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Religious",EWTN Germany (720p)
-https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV (1080p)
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filmstream.nl" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Filstalwelle.de" tvg-logo="https://i.imgur.com/19iKLvf.png" group-title="Undefined",Filstalwelle Göppingen (576p)
-http://62.113.210.2/filstalwelle-live/_definst_/mp4:livestream/chunklist_w660034089.m3u8
-#EXTINF:-1 tvg-id="FinestTV.de" tvg-logo="https://i.imgur.com/1uoP10V.png" group-title="Undefined",Finest TV (288p) [Not 24/7]
-https://media.finest.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="FolxMusicTelevision.de" tvg-logo="https://i.imgur.com/ze04puX.png" group-title="Music",FOLX Music (1080p)
-https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
-#EXTINF:-1 tvg-id="FrankenFernsehen.de" tvg-logo="https://i.imgur.com/3pGGLLD.png" group-title="Undefined",Franken Fernsehen (Nürnberg) (1080p) [Not 24/7]
-https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="FriesischerRundfunkFriedeburg.de" tvg-logo="https://i.imgur.com/jynL4Xl.png" group-title="Undefined",Friesischer Rundfunk Friedeburg (720p) [Not 24/7]
-https://ythls.onrender.com/channel/UCVwFnSaCfUD_UbkmWuZZ7FA.m3u8
-#EXTINF:-1 tvg-id="h1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/H1-logo.svg/512px-H1-logo.svg.png" group-title="General",H1 Fernsehen (1080p)
-https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Hamburg1.de" tvg-logo="https://i.imgur.com/df3yY8W.png" group-title="Undefined",Hamburg 1 (720p)
-https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
-#EXTINF:-1 tvg-id="Handystar.de" tvg-logo="https://i.imgur.com/oMIygVf.png" group-title="Undefined",Handystar (404p)
-https://sparhandytv.cdn.ses-ps.com/live/channel01/hls/index.m3u8
-#EXTINF:-1 tvg-id="HauptstadtTV.de" tvg-logo="https://i.imgur.com/7hutYJn.png" group-title="Undefined",Hauptstadt.TV (Potsdam) (720p) [Not 24/7]
-https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
-#EXTINF:-1 tvg-id="HealthTV.de" tvg-logo="https://i.imgur.com/QDUIH2U.png" group-title="Lifestyle",Health TV (720p)
-http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HopeChannelGerman.de" tvg-logo="https://i.imgur.com/I9BbJR0.png" group-title="Religious",Hope Channel German (1080p)
-https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
-#EXTINF:-1 tvg-id="HorseCountryTV.uk" tvg-logo="https://i.imgur.com/1x6zYZr.png" group-title="Outdoor",Horse and Country Free
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00810-horsecountrytvl-hncfreenz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-logo="https://i.imgur.com/SQ18XMT.png" group-title="Undefined",hr-fernsehen (1080p)
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
-#EXTINF:-1 tvg-id="HSE24Extra.de" tvg-logo="https://i.imgur.com/JBStmYu.png" group-title="Undefined",HSE24 Extra (1080p)
-https://hse24extra.akamaized.net/hls/live/2006596/hse24extra/playlist.m3u8
-#EXTINF:-1 tvg-id="HSE24Trend.de" tvg-logo="https://i.imgur.com/cWkCWPY.png" group-title="Undefined",HSE24 Trend (576p)
-https://hse24trend.akamaized.net/hls/live/2006597/hse24trend/playlist.m3u8
-#EXTINF:-1 tvg-id="HSE.de" tvg-logo="https://i.imgur.com/IecRNCk.png" group-title="Undefined",HSE (1080p)
-https://hse24.akamaized.net/hls/live/2006663/hse24/playlist.m3u8
-#EXTINF:-1 tvg-id="JenaTV.de" tvg-logo="https://i.imgur.com/o3D4bQI.png" group-title="Undefined",JenaTV
-https://stream4.sehradar.de/jenatv/ngrp:livestream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="Juwelo.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24491-2.png" group-title="Undefined",Juwelo (720p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/7441/7441_264_live.m3u8
-#EXTINF:-1 tvg-id="KTV.de" tvg-logo="https://i.imgur.com/2Fhbmdk.png" group-title="Undefined",K-TV (720p)
-https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
-#EXTINF:-1 tvg-id="KanalAvrupa.de" tvg-logo="https://i.imgur.com/dJocxUQ.png" group-title="Undefined",Kanal Avrupa
-http://51.15.2.151/hls/kanalavrupa.m3u8
-#EXTINF:-1 tvg-id="KaufBeiTV.de" tvg-logo="https://i.imgur.com/CVJWiM0.png" group-title="Undefined",KaufBei TV (576p)
-https://api.alpaca.t62a.com/hls/9103/index.m3u8
-#EXTINF:-1 tvg-id="KhaterehTV.de" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khatereh-tv-de.png" group-title="Undefined",Khatereh TV (720p)
-https://khaterehhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KIKA.de" tvg-logo="https://i.imgur.com/sDa6LFn.png" group-title="Undefined",KiKA (1080p) [Geo-blocked]
-https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
-#EXTINF:-1 tvg-id="KOKFightsTV.lt" tvg-logo="https://kokfights.com/wp-content/uploads/2018/05/kok_logo.jpg" group-title="Sports",KOK Fights TV (1080p) [Not 24/7]
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KulturMD.de" tvg-logo="https://i.imgur.com/io7cJ1Z.png" group-title="Undefined",KulturMD (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="KWTVWildau.de" tvg-logo="https://i.imgur.com/zSklDLl.png" group-title="Undefined",KW TV Wildau (720p) [Not 24/7]
-https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="LTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24496-1.png" group-title="Undefined",L-TV (720p)
-https://live2.telvi.de/hls/l-tv_s1.m3u8
-#EXTINF:-1 tvg-id="Lausitzwelle.de" tvg-logo="https://i.imgur.com/4kYF4bK.png" group-title="Undefined",Lausitzwelle (1080p)
-https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de" tvg-logo="https://i.imgur.com/easmJUw.png" group-title="Undefined",Leipzig Fernsehen (1080p)
-https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="LightChannel.de" tvg-logo="https://i.imgur.com/0OmBlfE.png" group-title="Undefined",Light Channel (576p) [Not 24/7]
-http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
-#EXTINF:-1 tvg-id="MagentaMusik360.de" tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="Music",Magenta Musik 360 (1080p)
-https://streaming.magenta-musik-360.de/csm/573870/magentamusik1/index.m3u8
-#EXTINF:-1 tvg-id="MDF1.de" tvg-logo="https://i.imgur.com/IFGXK6u.png" group-title="Undefined",MDF.1 (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehenSachsen.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="Undefined",MDR Fernsehen Sachsen [Geo-blocked]
-https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/index.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehenSachsenAnhalt.de" tvg-logo="https://i.imgur.com/cYHoPXb.png" group-title="Undefined",MDR Fernsehen Sachsen-Anhalt [Geo-blocked]
-https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/index.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehenThuringen.de" tvg-logo="https://i.imgur.com/Vt31dQo.png" group-title="Undefined",MDR Fernsehen Thüringen [Geo-blocked]
-https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
-#EXTINF:-1 tvg-id="MoreThanSportsTV.de" tvg-logo="https://i.imgur.com/SLrjImc.png" group-title="Sports",More Than Sports TV (1080p)
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="MTVGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" group-title="Entertainment",MTV Germany [Geo-blocked]
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
-#EXTINF:-1 tvg-id="MunchenTV.de" tvg-logo="https://i.imgur.com/lt7xNWW.png" group-title="Undefined",München TV (1080p) [Not 24/7]
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Muxxtv.de" tvg-logo="https://i.imgur.com/bUcXxDh.png" group-title="Undefined",Muxx.tv (1080p)
-https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="MyTVplus.de" tvg-logo="https://i.imgur.com/zA22TQH.png" group-title="Entertainment",MyTVplus (Dresden) (576p)
-https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="https://i.imgur.com/tUSXrVm.png" group-title="Undefined",n-tv [Geo-blocked]
-https://pliventv-a.akamaihd.net/live/ntvhomelive/ntvhomelive.isml/.m3u8
-#EXTINF:-1 tvg-id="naheTV.de" tvg-logo="https://i.imgur.com/w3yzJoK.png" group-title="Undefined",naheTV (720p)
-https://s.ok54.de/nahetv/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenHamburg.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Hamburg (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenMecklenburgVorpommern.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Mecklenburg-Vorpommern (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenNiedersachsen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Niedersachsen (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenSchleswigHolstein.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Logo_NDR_Fernsehen_2017.svg/512px-Logo_NDR_Fernsehen_2017.svg.png" group-title="Undefined",NDR Schleswig-Holstein (720p)
-https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
-#EXTINF:-1 tvg-id="NickGermany.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/512px-Nick.svg.png" group-title="Kids",Nick Germany (1080p) [Geo-blocked]
-https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTV.de" tvg-logo="https://i.imgur.com/9uaMgTk.png" group-title="Undefined",Niederbayern TV (720p)
-https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTVDeggendorfStraubing.de" tvg-logo="https://i.imgur.com/mAaIh3C.png" group-title="Undefined",Niederbayern TV Deggendorf & Straubing (1080p)
-https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTVLandshut.de" tvg-logo="https://i.imgur.com/5sHzZAh.png" group-title="Undefined",Niederbayern TV Landshut (1080p) [Not 24/7]
-https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="NiederbayernTVPassau.de" tvg-logo="https://i.imgur.com/0wnFhNi.png" group-title="Undefined",Niederbayern TV Passau (1080p)
-https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
-#EXTINF:-1 tvg-id="noa4Hamburg.de" tvg-logo="https://i.imgur.com/7A2LRKI.png" group-title="Undefined",Noa 4 Hamburg (1080p)
-https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="noa4Norderstedt.de" tvg-logo="https://i.imgur.com/941nrGb.png" group-title="Undefined",Noa 4 Norderstedt (1080p)
-https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
-#EXTINF:-1 tvg-id="NRWision.de" tvg-logo="https://i.imgur.com/RkF2Kmx.png" group-title="Undefined",NRWision (1080p)
-https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="OberlausitzTV.de" tvg-logo="https://i.imgur.com/A7WA7dC.png" group-title="Undefined",Oberlausitz TV (1080p)
-https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-logo="https://i.imgur.com/ISI5KDd.png" group-title="Undefined",Oberpfalz TV (1080p)
-https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Oeins.de" tvg-logo="https://i.imgur.com/bWQifDE.png" group-title="Undefined",oeins (Oldenburg) (1080p) [Not 24/7]
-https://www.oeins.de/live/studio.m3u8
-#EXTINF:-1 tvg-id="OFTVOffenbach.de" tvg-logo="https://i.imgur.com/WAcxCJr.png" group-title="Undefined",OF-TV Offenbach (720p)
-https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
-#EXTINF:-1 tvg-id="OK4.de" tvg-logo="https://i.imgur.com/cUlMOlt.png" group-title="Undefined",OK4 (720p)
-https://s.ok54.de/abr_ok4/live/playlist.m3u8
-#EXTINF:-1 tvg-id="OK54.de" tvg-logo="https://ok54.de/wp-content/uploads/2013/04/ok54_logo_schwarz.png" group-title="Undefined",OK54 (720p)
-https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="OKDessau.de" tvg-logo="https://i.imgur.com/nx4Wc8l.png" group-title="Undefined",OK Dessau (1080p) [Not 24/7]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKFlensburg.de" tvg-logo="https://i.imgur.com/NPbfgQC.png" group-title="Undefined",OK Flensburg (576p)
-https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
-#EXTINF:-1 tvg-id="OKFulda.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" group-title="Undefined",OK Fulda (720p)
-https://s.ok54.de/mok-fu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKGiessen.de" tvg-logo="https://i.imgur.com/X3JcUGy.png" group-title="Undefined",OK Gießen (360p) [Not 24/7]
-https://s.ok54.de/mok-gi/mok-gi/playlist.m3u8
-#EXTINF:-1 tvg-id="OKKaiserslautern.de" tvg-logo="https://i.imgur.com/MRrETTh.png" group-title="Undefined",OK Kaiserslautern (720p) [Not 24/7]
-https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKKassel.de" tvg-logo="https://i.imgur.com/igZ9sx2.png" group-title="Undefined",OK Kassel (720p) [Not 24/7]
-https://s.ok54.de/mok-ks/kassel/playlist.m3u8
-#EXTINF:-1 tvg-id="OKKiel.de" tvg-logo="https://i.imgur.com/eToHabX.png" group-title="Undefined",OK Kiel (576p)
-https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-#EXTINF:-1 tvg-id="OKMagdeburg.de" tvg-logo="https://i.imgur.com/zftoymR.png" group-title="Undefined",OK Magdeburg (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKTVMainz.de" tvg-logo="https://i.imgur.com/XvK94tN.png" group-title="Undefined",OK Mainz (720p)
-https://s.ok54.de/oktvmainz/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKMerseburgQuerfurt.de" tvg-logo="https://i.imgur.com/QfzdESc.png" group-title="Undefined",OK Merseburg-Querfurt (1080p) [Not 24/7]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKRheinMain.de" tvg-logo="https://i.imgur.com/XsmPI4N.jpg" group-title="Undefined",OK Rhein-Main (576p) [Not 24/7]
-https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
-#EXTINF:-1 tvg-id="OKRheinLokalWorms.de" tvg-logo="https://i.imgur.com/6tAimWV.png" group-title="Undefined",OK RheinLokal (Worms) (720p) [Not 24/7]
-https://s.ok54.de/rheinlokal/rheinlOKal_stream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKSalzwedel.de" tvg-logo="https://i.imgur.com/jDmiTOS.png" group-title="Undefined",OK Salzwedel (1080p) [Not 24/7]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKStendal.de" tvg-logo="https://i.imgur.com/s9wo85l.png" group-title="Undefined",OK Stendal (1080p) [Not 24/7]
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKSuedwestpfalz.de" tvg-logo="https://i.imgur.com/lhlQzLg.png" group-title="Undefined",OK Suedwestpfalz (720p) [Not 24/7]
-https://s.ok54.de/okswp/test/playlist.m3u8
-#EXTINF:-1 tvg-id="OKTrier.de" tvg-logo="https://i.imgur.com/nq32HIs.png" group-title="Undefined",OK Trier (720p)
-https://s.ok54.de/ott/webstream/playlist.m3u8
-#EXTINF:-1 tvg-id="OKWeinstrasseNeustadt.de" tvg-logo="https://i.imgur.com/bjTajXb.png" group-title="Undefined",OK Weinstraße (Neustadt) (432p)
-https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
-#EXTINF:-1 tvg-id="OKWernigerode.de" tvg-logo="https://i.imgur.com/3gQvhSy.png" group-title="Undefined",OK Wernigerode (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 tvg-id="OKLudwigshafen.de" tvg-logo="https://i.imgur.com/NjaDMyd.png" group-title="Undefined",OK-TV Ludwigshafen (720p)
-https://s.ok54.de/oklu/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="oldenburgeins.de" tvg-logo="https://i.imgur.com/HQs5No3.png" group-title="Undefined",oldenburg eins (1080p) [Not 24/7]
-https://oeins.de/live/studio.m3u8
-#EXTINF:-1 tvg-id="OneMusicTelevision.de" tvg-logo="https://i.imgur.com/dLgoKJ0.png" group-title="Music",ONE1 Music (1080p)
-https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
-#EXTINF:-1 tvg-id="One.de" tvg-logo="https://i.imgur.com/U1D7l6K.png" group-title="Undefined",One (1080p) [Geo-blocked]
-https://mcdn.one.ard.de/ardone/hls/master.m3u8
-#EXTINF:-1 tvg-id="OneAdria.de" tvg-logo="https://i.imgur.com/NYkMamU.png" group-title="Music",One Adria (1080p)
-https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen1.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 1 (1080p) [Not 24/7]
-https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen2.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 2 (1080p) [Not 24/7]
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen3.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 3 (1080p) [Not 24/7]
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Parlamentsfernsehen4.de" tvg-logo="https://i.imgur.com/mksEgwx.png" group-title="Legislative",Parlamentsfernsehen 4 (1080p) [Not 24/7]
-https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="PearlTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24524-2.png" group-title="Undefined",Pearl TV (2160p) [Not 24/7]
-https://ythls.onrender.com/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
-#EXTINF:-1 tvg-id="Phoenix.de" tvg-logo="https://i.imgur.com/T1532t9.png" group-title="Undefined",Phoenix (720p) [Geo-blocked]
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-#EXTINF:-1 tvg-id="PlutoTVAnimalsGermany.de" tvg-logo="https://i.imgur.com/SMQxSV6.png" group-title="Documentary",Pluto TV Animals (Germany) (480p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767ae7b456c8cf265ce922&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=301&terminate=false&userId=
-#EXTINF:-1 tvg-id="AutoMotorundSport.de" tvg-logo="https://i.imgur.com/GGIV06c.png" group-title="Auto",Pluto TV Auto Motor Sport (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
-#EXTINF:-1 tvg-id="BeybladeBurstGermany.de" tvg-logo="https://i.imgur.com/yaHE8Uj.png" group-title="Kids",Pluto TV Beyblade Burst Nick (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b551ddcd25500072c4dad/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b551ddcd25500072c4dad&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=a38b88ed-0712-11eb-8b9f-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="BlazeunddieMonsterMaschinenNickGermany.de" tvg-logo="https://i.imgur.com/mMj4wOj.png" group-title="Kids",Pluto TV Blaze Nick (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b60419becf60008c841fd/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b60419becf60008c841fd&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ebc579c0-0712-11eb-97af-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="BluesCluesGermany.de" tvg-logo="https://i.imgur.com/sHRHnzf.png" group-title="Kids",Pluto TV Blue's Clues Nick (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b564ff59d130007363823/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b564ff59d130007363823&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=29e99f3f-0713-11eb-a59f-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy Central (Made in Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d4948418101147596fd6c5a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=91083755-0728-11eb-aeab-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy Central (Made in Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4948418101147596fd6c5a/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Comedy Central (Made in Germany)+ (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e7b8923fc302800079e4f4f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=ee59b770-663e-4463-bf9b-3f7c374fbc39&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVHistoryGermany.de" tvg-logo="https://i.imgur.com/c2s1EA3.png" group-title="Documentary",Pluto TV History (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b1c126c65d0a307355f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b1c126c65d0a307355f&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=302&terminate=false&userId=
-#EXTINF:-1 tvg-id="iCarlyGermany.de" tvg-logo="https://i.imgur.com/EHLHuNo.png" group-title="Kids",Pluto TV iCarly (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b580a233dc90007f0cb9d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b580a233dc90007f0cb9d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c53d6ac-a6d2-4c2c-9403-6101f770b205&terminate=false&userId=
-#EXTINF:-1 tvg-id="iCarlyPlusGermany.de" tvg-logo="https://i.imgur.com/Wy73ywD.png" group-title="Kids",Pluto TV iCarly+ (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2cb9f5b291000773807a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=4c128fa6-7ec2-4a50-a81b-37f9e8c1e48f&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVInsideGermany.de" tvg-logo="https://i.imgur.com/h6cmLzR.png" group-title="Documentary",Pluto TV Inside (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767b4889bca2ce7b73ef2e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767b4889bca2ce7b73ef2e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=303&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVMoviesGermany.de" tvg-logo="https://i.imgur.com/P9Zoa9L.png" group-title="Movies",Pluto TV Movies (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5c5c3b948002db3c3e0b262e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=50&terminate=false&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV MTV (German) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5caf325764025859afdd6c4d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5caf325764025859afdd6c4d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1b711cc8-0587-11eb-9df2-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV MTV (German) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcebe53d352330009e56f5b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dcebe53d352330009e56f5b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b3be0889-389b-4ef9-a876-b3d589aa6cd9&terminate=false&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV MTV Cribs (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea815a515d149000748ee9b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ea815a515d149000748ee9b&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8&terminate=false&userId=
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-logo="https://i.imgur.com/yVKIUDS.png" group-title="Documentary",Pluto TV N24 Doku (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Nick (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede448d3d50590007a4419e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ede448d3d50590007a4419e&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=261&terminate=false&userId=
-#EXTINF:-1 tvg-id="EmmaeinfachmagischNickGermany.de" tvg-logo="https://i.imgur.com/AYlN745.png" group-title="Kids",Pluto TV Nick Emma einfach magisch! (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4796368174910007756454/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f4796368174910007756454&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=db62fa8b-15bd-11eb-bde1-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="NickRewindGermany.de" tvg-logo="https://i.imgur.com/Bw8rdAb.png" group-title="Kids",Pluto TV Nick Rewind (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed106ce4bf2e80007700bb3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ed106ce4bf2e80007700bb3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=1f8c3bd8-0715-11eb-97af-0242ac110002&terminate=false&userId=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Pluto TV Nick Rewind+ (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f3d2bcd0fadc30007b4863b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f3d2bcd0fadc30007b4863b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=26a921c8-2009-4fa8-9d4f-3edbe18a97f7&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSitcomsGermany.de" tvg-logo="https://i.imgur.com/YzrUL8P.png" group-title="Comedy",Pluto TV Sitcoms+ (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5cd149f021cb6c55e258bbe8&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=375760ce-ac7c-4306-818c-98562edc8da5&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSpongeBobSchwammkopf.de" tvg-logo="https://i.imgur.com/8gR5jPf.png" group-title="Kids",Pluto TV SpongeBob Schwammkopf (Germany) (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d00e8adaab96b5635b2a005/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d00e8adaab96b5635b2a005&deviceLat=51.2993&deviceLon=9.4910&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=248&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSurfGermany.de" tvg-logo="https://i.imgur.com/xB6mLeg.png" group-title="Sports",Pluto TV Surf (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d1ce51dbaca4afdb7abfe5f/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5d1ce51dbaca4afdb7abfe5f&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=abec40e3-86b9-48b6-981d-dc5eeecc6cf9&terminate=false&userId=
-#EXTINF:-1 tvg-id="TeenNickGermany.de" tvg-logo="https://i.imgur.com/VTWleRc.png" group-title="Kids",Pluto TV TeenNick (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f0d668b872e4400073acc68/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVVictorious.de" tvg-logo="https://i.imgur.com/541iubn.png" group-title="Undefined",Pluto TV Victorious (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PUNKTum.de" tvg-logo="https://i.imgur.com/j1RHJQm.png" group-title="Undefined",PunktUM (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
-#EXTINF:-1 tvg-id="QVC2Germany.de" tvg-logo="https://i.imgur.com/27G7AoH.png" group-title="Shop",QVC2 (Deutsch) (540p)
-http://live.qvcde.simplestreamcdn.com/live/qvcde_plus_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="QVCGermany.de" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC Germany (720p)
-https://d2mn03dhv5o3g8.cloudfront.net/live/qvcde_main_clean/bitrate1.isml/3/prog_index.m3u8
-#EXTINF:-1 tvg-id="QVCStyleGermany.de" tvg-logo="https://i.imgur.com/6HZlLL3.png" group-title="Shop",QVC Style (Deutsch) (540p)
-http://live.qvcde.simplestreamcdn.com/live/qvcde_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-id="Radio21TV.de" tvg-logo="https://i.imgur.com/u8OhwI1.png" group-title="Music",Radio 21 TV (720p)
-https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioBremenFernsehen.de" tvg-logo="https://i.imgur.com/wsTOcuX.png" group-title="Undefined",Radio Bremen Fernsehen (1080p) [Geo-blocked]
-https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
-#EXTINF:-1 tvg-id="RadioWeserTVBremen.de" tvg-logo="https://i.imgur.com/9pvCYaA.png" group-title="Music",Radio Weser TV Bremen (576p)
-https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVActionMoviesGermany.de" tvg-logo="https://i.imgur.com/IPVXJ9y.png" group-title="Movies",Rakuten Action Movies Germany (720p)
-https://rakuten-actionmovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVComedyMoviesGermany.de" tvg-logo="https://i.imgur.com/ZeKvu3l.png" group-title="Movies",Rakuten Comedy Movies Germany (720p)
-https://rakuten-comedymovies-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RakutenTVSpotlightGermany.de" tvg-logo="https://i.imgur.com/5bC53Xk.jpg" group-title="Movies",Rakuten Spotlight Germany (720p)
-https://rakuten-spotlight-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten Top Free Germany (720p)
-https://rakuten-topfree-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Shows Austria (720p)
-https://rakuten-tvshows-5-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Rakuten TV Shows Germany (720p)
-https://rakuten-tvshows-3-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RAN1.de" tvg-logo="https://i.imgur.com/zRg2BEa.png" group-title="Undefined",Ran 1 (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RBBBerlin.de" tvg-logo="https://i.imgur.com/1h6Kfli.png" group-title="Undefined",RBB Berlin (1080p) [Geo-blocked]
-https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
-#EXTINF:-1 tvg-id="RBBBrandenburg.de" tvg-logo="https://i.imgur.com/mxmQmfQ.png" group-title="Undefined",RBB Brandenburg (1080p) [Geo-blocked]
-https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
-#EXTINF:-1 tvg-id="RBW.de" tvg-logo="https://i.imgur.com/A0UKdix.png" group-title="Undefined",RBW (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-logo="https://i.imgur.com/DvxfBTE.png" group-title="General",RecordTV Europa (720p) [Geo-blocked]
-https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
-#EXTINF:-1 tvg-id="RegioTVBodensee.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Undefined",Regio TV Bodensee (1080p)
-https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVSchwaben.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Undefined",Regio TV Schwaben (1080p)
-https://stream05.welocal.stream/stream/fhd-regiotv_182913/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTVStuttgart.de" tvg-logo="https://i.imgur.com/3koyLef.png" group-title="Undefined",Regio TV Stuttgart (1080p)
-https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RennsteigTV.de" tvg-logo="https://www.rennsteig.tv/wp-content/uploads/rennsteig-tv-claim-300.png" group-title="Undefined",Rennsteig TV (720p)
-http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="RFHHarz.de" tvg-logo="https://i.imgur.com/CsLAH85.png" group-title="Undefined",RFH Harz (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RFH.de" tvg-logo="https://i.imgur.com/8DZa7in.png" group-title="Undefined",RFH TV (1080p)
-http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
-#EXTINF:-1 tvg-id="RFORosenheim.de" tvg-logo="https://i.imgur.com/e5BIHz8.png" group-title="Undefined",RFO Rosenheim (1080p)
-https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="RheinMainTV.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24539-1.png" group-title="Undefined",RheinMain TV (720p) [Not 24/7]
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="RiC.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24540-1.png" group-title="Undefined",RiC (1080p) [Not 24/7] [Geo-blocked]
-https://ythls.onrender.com/channel/UCobxrBytMqM7pWZslb_UEHA.m3u8
-#EXTINF:-1 tvg-id="RNF.de" tvg-logo="https://i.imgur.com/CRk9usN.png" group-title="Undefined",RNF (1080p)
-https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RockAntenne.de" tvg-logo="https://i.imgur.com/nvFXRjH.png" group-title="Undefined",Rock Antenne [Not 24/7]
-https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 tvg-id="RocklandTV.de" tvg-logo="https://i.imgur.com/6ve1FTN.png" group-title="Undefined",Rockland TV (480p) [Geo-blocked]
-https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTDE.de" tvg-logo="https://i.imgur.com/v1PIbB2.png" group-title="News",RT DE (1080p) [Not 24/7]
-https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
-#EXTINF:-1 tvg-id="SaarlandFernsehen1.de" tvg-logo="https://i.imgur.com/OodehFV.png" group-title="Undefined",Saarland Fernsehen 1 (1080p)
-https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="SaarlandFernsehen2.de" tvg-logo="https://i.imgur.com/Yv7j4ia.png" group-title="Undefined",Saarland Fernsehen 2 (720p) [Not 24/7]
-https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
-#EXTINF:-1 tvg-id="SachsenEins.de" tvg-logo="https://i.imgur.com/2EXNdd8.png" group-title="Undefined",Sachsen Eins (1080p)
-https://sachsen1.iptv-playoutcenter.de/sachsen1/sachsen1.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="SachsenFernsehenVogtland.de" tvg-logo="https://i.imgur.com/s6LluNe.png" group-title="Undefined",Sachsen Fernsehen Vogtland (1080p)
-https://vogtland.iptv-playoutcenter.de/vogtland/vogtlandfernsehen.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="SalveTV.de" tvg-logo="https://i.imgur.com/GhKjHMG.png" group-title="Undefined",Salve TV (720p)
-https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
-#EXTINF:-1 tvg-id="SchlagerDeluxe.de" tvg-logo="https://i.imgur.com/p0W050H.png" group-title="Undefined",Schlager Deluxe (1080p)
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-#EXTINF:-1 tvg-id="Seenluft24.de" tvg-logo="https://i.imgur.com/3TgBg9v.jpg" group-title="Undefined",Seenluft24 (1080p)
-https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="ServusTVGermany.de" tvg-logo="https://i.imgur.com/yRKZCUL.png" group-title="Movies",ServusTV Deutschland (720p) [Geo-blocked]
-https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
-#EXTINF:-1 tvg-id="SonnenklarTV.de" tvg-logo="https://i.imgur.com/g4QeXwF.png" group-title="Undefined",Sonnenklar TV (1080p)
-http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
-#EXTINF:-1 tvg-id="SonusFM.de" tvg-logo="https://i.imgur.com/h29rUcG.png" group-title="Undefined",Sonus FM Alemania (1080p) [Not 24/7]
-http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
-#EXTINF:-1 tvg-id="SophiaTV.de" tvg-logo="https://i.imgur.com/1hNgHbB.png" group-title="Religious",Sophia TV (720p)
-https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
-#EXTINF:-1 tvg-id="SophiaTVEspanol.de" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Undefined",Sophia TV Español (720p)
-https://www.onairport.live/sophiatv-es-live/smil:sophia-tv-es.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport1.de" tvg-logo="https://i.imgur.com/Tsjt7v9.png" group-title="Sports",Sport 1 (1080p) [Geo-blocked]
-https://oz.sport1.de/api/ottv1/2/livestream/view/sport2.m3u8
-#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/512px-SR_Fernsehen.svg.png" group-title="Undefined",SR Fernsehen (720p)
-https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
-#EXTINF:-1 tvg-id="SRF.de" tvg-logo="https://i.imgur.com/92XNBmr.png" group-title="General",SRF (720p)
-https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="SWR3VisualRadio.de" tvg-logo="https://i.imgur.com/PxSgxRO.jpg" group-title="Undefined",SWR 3 Visual Radio (720p)
-https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
-#EXTINF:-1 tvg-id="SWRFernsehenBadenWurttemberg.de" tvg-logo="https://i.imgur.com/nEqGaWW.png" group-title="Undefined",SWR Fernsehen Baden-Württemberg (720p) [Geo-blocked]
-https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-#EXTINF:-1 tvg-id="SWRFernsehenRheinlandPfalz.de" tvg-logo="https://i.imgur.com/h44EBSJ.png" group-title="Undefined",SWR Fernsehen Rheinland-Pfalz (720p) [Geo-blocked]
-https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-#EXTINF:-1 tvg-id="Sylt1.de" tvg-logo="https://i.imgur.com/2Wh8OS5.png" group-title="Undefined",Sylt1 (404p)
-https://5f7f7503aa549.streamlock.net/Sylt1_Channel_1_PGM/sylt1_high/Playlist.m3u8
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-logo="https://i.imgur.com/LH0Gctv.png" group-title="Undefined",Tagesschau 24 (720p)
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-id="TastemadeGermany.de" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Deutschland (720p)
-https://tastemade-de-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TeinsTV.de" tvg-logo="https://i.imgur.com/gMMk5TU.png" group-title="Undefined",Teins TV (1080p) [Not 24/7]
-https://live1.markenfunk.com/t1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",test Channel 1 (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/test-1/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",test Channel 3 (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/test-3/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",test Channel 4 (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/test-4/stream_de.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",test Channel 5 (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/test-5/stream_de.m3u8
-#EXTINF:-1 tvg-id="TideTV.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tidetv.png" group-title="Undefined",Tide TV (1080p)
-https://5889e7d0d6e28.streamlock.net/tide-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="tiviTURK.de" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="Undefined",tiviTÜRK (720p) [Not 24/7]
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Series",Tlnovelas Europa (720p)
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Toonami (1080p) [Geo-blocked]
-https://adultswim-vodlive.cdn.turner.com/live/toonami/stream_de.m3u8
-#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="General",TV5Monde Europe (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
-#EXTINF:-1 tvg-id="TV38SudostNiedersachen.de" tvg-logo="https://i.imgur.com/ob9JJPU.png" group-title="Undefined",TV38 Südost-Niedersachen (1080p)
-https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
-#EXTINF:-1 tvg-id="TVBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tv.berlin_2009.svg/512px-Tv.berlin_2009.svg.png" group-title="Undefined",TV Berlin (720p)
-https://live2.telvi.de/hls/tvberlin.m3u8
-#EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-logo="https://i.imgur.com/Ymh11VV.png" group-title="Undefined",TV Ingolstadt (1080p)
-https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMainfranken.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png" group-title="Undefined",TV Mainfranken (1080p) [Not 24/7]
-https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMittelrhein.de" tvg-logo="https://i.imgur.com/3Zic2AR.png" group-title="Undefined",TV Mittelrhein (720p)
-https://live2.telvi.de/hls/tvm_hd720.m3u8
-#EXTINF:-1 tvg-id="TVOberfranken.de" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24580-1.png" group-title="Undefined",TV Oberfranken (TVO) (1080p) [Not 24/7]
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.de" tvg-logo="https://i.imgur.com/Gg6d4Jb.png" group-title="Undefined",TVA (1080p) [Not 24/7]
-https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="VolksmusikTV.de" tvg-logo="https://i.imgur.com/EsWuCJ3.png" group-title="Music",Volksmusik TV (1080p)
-https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-#EXTINF:-1 tvg-id="WDR1Live.de" tvg-logo="https://i.imgur.com/RbqDMYx.png" group-title="Undefined",WDR 1 Live (720p)
-https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenAachen.de" tvg-logo="https://i.imgur.com/EvZh6V3.png" group-title="Undefined",WDR Fernsehen Aachen (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenBielefeld.de" tvg-logo="https://i.imgur.com/rhjEvwR.png" group-title="Undefined",WDR Fernsehen Bielefeld (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenBonn.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Bonn (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenDortmund.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Dortmund (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenDuisburg.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Duisburg (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenDusseldorf.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Düsseldorf (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenEssen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Essen (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenKoln.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Köln (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenMunster.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Münster (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenSiegen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Siegen (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehenWuppertal.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wdr_fernsehen_logo_2016.svg/512px-Wdr_fernsehen_logo_2016.svg.png" group-title="Undefined",WDR Fernsehen Wuppertal (720p) [Geo-blocked]
-https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-#EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",WeatherSpy Europe (720p)
-https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Welt.de" tvg-logo="https://i.imgur.com/s4TZoxx.png" group-title="News",WELT [Geo-blocked]
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
-#EXTINF:-1 tvg-id="WeltderWunderTV.de" tvg-logo="https://i.imgur.com/DLXssJe.png" group-title="Undefined",Welt der Wunder TV (576p)
-https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
-#EXTINF:-1 tvg-id="Wir24TV.de" tvg-logo="https://i.imgur.com/wvEtGOX.png" group-title="General",Wir24 TV [Geo-blocked]
-https://edge14.vedge.infomaniak.com/livecast/ik:wir24tv_hms/manifest.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-logo="https://i.imgur.com/lta5Mog.png" group-title="Sports",World of Freesports (720p)
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 tvg-id="WWTV.de" tvg-logo="https://i.imgur.com/MefGKaz.png" group-title="Undefined",WW TV (720p)
-https://live2.telvi.de/hls/wwtv_hd720.m3u8
-#EXTINF:-1 tvg-id="YOLTV.de" tvg-logo="https://i.imgur.com/rTBX6lS.png" group-title="General",Yol TV (720p)
-https://stream.yol.tv:9443/medialive/yol.m3u8
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Undefined",ZDF (720p) [Geo-blocked]
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Undefined",ZDFinfo (720p) [Geo-blocked]
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-logo="https://i.imgur.com/1JIIGgL.png" group-title="Undefined",ZDFneo (720p) [Geo-blocked]
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-#EXTINF:-1 tvg-id="ZweiMusicTelevision.de" tvg-logo="https://i.imgur.com/RbdpCNf.png" group-title="Music",ZWEI2 Music (1080p)
-https://cdne.folxplay.tv/folx-trz/streams/ch-2/master.m3u8
+#EXTM3U  x-tvg-url="http://nasharu.tv/iptv/epg/epg_ssiptv.xml" url-tvg="http://nasharu.tv/iptv/epg/epg_full.xml.gz" size="medium"  catchup="shift" catchup-days="3"
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",ĞĞ¢Ğ’ HD
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/103/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",ĞĞ¢Ğ’
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/0103/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",ĞĞ¢Ğ’ (+2)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/184/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",ĞĞ¢Ğ’ (+4)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/185/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv-pl7" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",ĞĞ¢Ğ’ (+7)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/161/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru.png",ĞĞ¢Ğ’ (-1)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/139/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv-xit" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv-hit-ru.png",ĞĞ¢Ğ’ Ğ¥Ğ¸Ñ‚
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/1670/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv-serial" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_serial.png",ĞĞ¢Ğ’ Ğ¡ĞµÑ€Ğ¸Ğ°Ğ»
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/661/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv-pravo" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_pravo.png",ĞĞ¢Ğ’ ĞŸÑ€Ğ°Ğ²Ğ¾
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/662/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="ntv-style" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv_ru_styl.png",ĞĞ¢Ğ’ Ğ¡Ñ‚Ğ¸Ğ»ÑŒ
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/663/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tnt" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",Ğ¢ĞĞ¢ HD
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/104/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tnt" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",Ğ¢ĞĞ¢
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/0104/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tnt-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",Ğ¢ĞĞ¢ (+2)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/186/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tnt-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",Ğ¢ĞĞ¢ (+4)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/174/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tnt-pl7" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt-ru.png",Ğ¢ĞĞ¢ (+7)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/197/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tnt4" tvg-logo="http://cdn.server-iptv.live/logo/tv/tnt4-ru.png",Ğ¢ĞĞ¢4
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/121/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="rentv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png",Ğ Ğ•Ğ Ğ¢Ğ’ HD
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/106/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="rentv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png",Ğ Ğ•Ğ Ğ¢Ğ’
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/0106/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="rentv-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png",Ğ Ğ•Ğ Ğ¢Ğ’ (+2)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/188/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="rentv-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/ren-tv-ru.png",Ğ Ğ•Ğ Ğ¢Ğ’ (+4)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/193/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="sts" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",Ğ¡Ğ¢Ğ¡ HD
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/107/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="sts" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",Ğ¡Ğ¢Ğ¡
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/0107/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="sts-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",Ğ¡Ğ¢Ğ¡ (+2)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/189/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="sts-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",Ğ¡Ğ¢Ğ¡ (+4)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/164/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="sts-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-ru.png",Ğ¡Ğ¢Ğ¡ (+6)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/190/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="sts-love" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-love-ru.png",Ğ¡Ğ¢Ğ¡ Love
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/125/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="super" tvg-logo="http://cdn.server-iptv.live/logo/tv/subbota-ru.png",Ğ¡ÑƒĞ±Ğ±Ğ¾Ñ‚Ğ°
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/126/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="yu" tvg-logo="http://cdn.server-iptv.live/logo/tv/u_tv_ru.png",Ğ® Ğ¢Ğ’
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/124/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="domashny" tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png",Ğ”Ğ¾Ğ¼Ğ°ÑˆĞ½Ğ¸Ğ¹
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/110/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="domashny-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png",Ğ”Ğ¾Ğ¼Ğ°ÑˆĞ½Ğ¸Ğ¹ +4
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/168/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="domashny-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/domashniy-ru.png",Ğ”Ğ¾Ğ¼Ğ°ÑˆĞ½Ğ¸Ğ¹ +6
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/173/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tvcentr" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png",Ğ¢Ğ’Ğ¦
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/109/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tvcentr-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png",Ğ¢Ğ’ Ğ¦ĞµĞ½Ñ‚Ñ€ +2
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/176/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tvcentr-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_centr_ru.png",Ğ¢Ğ’ Ğ¦ĞµĞ½Ñ‚Ñ€ +4
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/199/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="5kanal-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png",ĞŸÑÑ‚Ñ‹Ğ¹ ĞšĞ°Ğ½Ğ°Ğ»
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/105/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="5kanal-ru-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png",ĞŸÑÑ‚Ñ‹Ğ¹ ĞšĞ°Ğ½Ğ°Ğ» (+2)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/187/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="5kanal-ru-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/5_kanal_ru.png",ĞŸÑÑ‚Ñ‹Ğ¹ ĞšĞ°Ğ½Ğ°Ğ» (+4)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/171/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="zvezda" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Ğ—Ğ²ĞµĞ·Ğ´Ğ° HD
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/0108/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="zvezda" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Ğ—Ğ²ĞµĞ·Ğ´Ğ°
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/108/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="zvezda-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Ğ—Ğ²ĞµĞ·Ğ´Ğ° (+2)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/191/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="zvezda-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Ğ—Ğ²ĞµĞ·Ğ´Ğ° (+4)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/167/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="zvezda-pl6" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_zvezda_ru.png",Ğ—Ğ²ĞµĞ·Ğ´Ğ° (+6)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/198/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tv3-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_3_ru.png",Ğ¢Ğ’3
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/119/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="tv3-ru-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_3_ru.png",Ğ¢Ğ’3 +4
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/178/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="che" tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png",Ğ§Ğµ
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/111/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="che-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png",Ğ§Ğµ +2
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/172/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="che-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/che-ru.png",Ğ§Ğµ +4
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/195/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="mir" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_ru.png",ĞœĞ¸Ñ€
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/122/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="kvn-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/kvn_ru.png",ĞšĞ’Ğ Ğ¢Ğ’
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/120/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="anekdottv" tvg-logo="http://cdn.server-iptv.live/logo/tv/anekdot_tv_ru.png",ĞĞ½ĞµĞºĞ´Ğ¾Ñ‚ Ğ¢Ğ’
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/127/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="piatnica" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",ĞŸÑÑ‚Ğ½Ğ¸Ñ†Ğ° HD
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/112/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="piatnica" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",ĞŸÑÑ‚Ğ½Ğ¸Ñ†Ğ°
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/0112/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="piatnica-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",ĞŸÑÑ‚Ğ½Ğ¸Ñ†Ğ° (+2)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/196/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="piatnica-pl4" tvg-logo="http://cdn.server-iptv.live/logo/tv/pyat_nitsa_ru.png",ĞŸÑÑ‚Ğ½Ğ¸Ñ†Ğ° (+4)
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/169/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="centralnoye-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/centralnoe-tv-ru.png",Ğ¦ĞµĞ½Ñ‚Ñ€Ğ°Ğ»ÑŒĞ½Ğ¾Ğµ Ñ‚ĞµĞ»ĞµĞ²Ğ¸Ğ´ĞµĞ½Ğ¸Ğµ
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/1400/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="sarafan" tvg-logo="http://cdn.server-iptv.live/logo/tv/sarafan_ru.png",Ğ¡Ğ°Ñ€Ğ°Ñ„Ğ°Ğ½
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/133/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="rbk" tvg-logo="http://cdn.server-iptv.live/logo/tv/rbk_tv_ru.png",Ğ Ğ‘Ğš-Ğ¢Ğ’
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/118/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="euronews" tvg-logo="http://cdn.server-iptv.live/logo/tv/euronews_fr.png",Euronews
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/140/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="rossia-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_24.png",Ğ Ğ¾ÑÑĞ¸Ñ-24
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/113/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="360-news" tvg-logo="http://cdn.server-iptv.live/logo/tv/360-degree-novosti-ru.png",360Â° ĞĞ¾Ğ²Ğ¾ÑÑ‚Ğ¸ HD
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/136/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="izvestia" tvg-logo="http://cdn.server-iptv.live/logo/tv/izvestiatv-ru.png",Ğ˜Ğ·Ğ²ĞµÑÑ‚Ğ¸Ñ
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/134/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="mir-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_24_ru.png",ĞœĞ¸Ñ€ 24
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="mir-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_24_ru.png",ĞœĞ¸Ñ€ 24
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/132/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="moskva-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/moskva_24_ru.png",ĞœĞ¾ÑĞºĞ²Ğ° 24
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/114/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="dozhd" tvg-logo="http://cdn.server-iptv.live/logo/tv/dozhd_ru.png",Ğ”Ğ¾Ğ¶Ğ´ÑŒ
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/130/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="kultura" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_kultura.png",Ğ Ğ¾ÑÑĞ¸Ñ Ğš +0
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/117/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="kultura-pl2" tvg-logo="http://cdn.server-iptv.live/logo/tv/rossiya_kultura.png",Ğ Ğ¾ÑÑĞ¸Ñ Ğš +2
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/170/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="sankt-peterburg" tvg-logo="http://cdn.server-iptv.live/logo/tv/sankt_peterburg_ru.png",Ğ¡Ğ°Ğ½ĞºÑ‚-ĞŸĞµÑ‚ĞµÑ€Ğ±ÑƒÑ€Ğ³
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/135/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="otr" tvg-logo="http://cdn.server-iptv.live/logo/tv/otr_ru.png",ĞĞ¢Ğ 
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/123/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="spas" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal-spas-ru.png",Ğ¡Ğ¿Ğ°Ñ
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/128/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="soyuz" tvg-logo="http://cdn.server-iptv.live/logo/tv/soyuz_ru.png",Ğ¡Ğ¾ÑĞ·
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/129/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="grozny" tvg-logo="http://cdn.server-iptv.live/logo/tv/gtrk_groznyj_ru.png",Ğ“Ñ€Ğ¾Ğ·Ğ½Ñ‹Ğ¹
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:0 group-title="Ğ ÑƒÑÑĞºĞ¸Ğµ"  tvg-id="rgvk-dagestan" tvg-logo="http://cdn.server-iptv.live/logo/tv/rgvk_dagestan_ru.png",Ğ Ğ“Ğ’Ğš Ğ”Ğ°Ğ³ĞµÑÑ‚Ğ°Ğ½
+#EXTGRP:Ğ ÑƒÑÑĞºĞ¸Ğµ
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="kvartal-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/kvartal_tv_ua.png",ĞšĞ²Ğ°Ñ€Ñ‚Ğ°Ğ» Ğ¢Ğ’
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/313/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="novy-kanal-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/novy-kanal-ua.png",ĞĞ¾Ğ²Ğ¸Ğ¹ ĞºĞ°Ğ½Ğ°Ğ»
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/303/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="stb-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_stb_ua.png",Ğ¡Ğ¢Ğ‘
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/304/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="inter-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/inter_ua.png",Ğ˜Ğ½Ñ‚ĞµÑ€
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/305/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="ictv-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/ictv_ua.png",ICTV
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/302/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="ictv-ukraine" tvg-logo="http://cdn.server-iptv.live/logo/tv/ictv_ua.png",ICTV2
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/339/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="1plus1" tvg-logo="http://cdn.server-iptv.live/logo/tv/1_plus_1_ua.png",1+1
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/306/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="1plus1-ukraina" tvg-logo="http://cdn.server-iptv.live/logo/tv/1plus1-ukraina.png",1+1 Ğ£ĞºÑ€Ğ°Ñ—Ğ½Ğ°
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/340/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="ua-pershy" tvg-logo="http://cdn.server-iptv.live/logo/tv/ua-pershy.png",UA:ĞŸĞµÑ€ÑˆĞ¸Ğ¹
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/312/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="espreso-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/espreso-tv-ua.png",Ğ•ÑĞ¿Ñ€ĞµÑĞ¾
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/317/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="unian-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/unian.png",Ğ£Ğ½iĞ°Ğ½
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/307/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="ntn-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntn_ua.png",ĞĞ¢Ğ
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/318/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="2plus2" tvg-logo="http://cdn.server-iptv.live/logo/tv/2-plus-2-ua.png",2+2
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/308/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="k1-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/k1_ua.png",Ğš1
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/310/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="k2-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/k2-ua.png",Ğš2
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/311/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="filmua-drama" tvg-logo="http://cdn.server-iptv.live/logo/tv/film_ua_drama.png",Film.Ua Drama
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/322/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="enter-film" tvg-logo="http://cdn.server-iptv.live/logo/tv/enter_film_ua.png",Enter-Ñ„Ñ–Ğ»ÑŒĞ¼
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/315/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="rybalka" tvg-logo="http://cdn.server-iptv.live/logo/tv/rybalka-telekanal-ua.png",Ğ Ñ‹Ğ±Ğ°Ğ»ĞºĞ°
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/316/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="tet-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/tet.png",Ğ¢Ğ•Ğ¢
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/342/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="bigudi" tvg-logo="http://cdn.server-iptv.live/logo/tv/bigudi.png",Ğ‘iĞ³ÑƒĞ´i
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/343/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="priamyj" tvg-logo="http://cdn.server-iptv.live/logo/tv/priamyj.png",ĞŸÑ€ÑĞ¼Ğ¸Ğ¹
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/344/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="24news-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/24news-ua.png",24 Ğ£ĞºÑ€Ğ°Ğ¸Ğ½Ğ°
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/338/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="ua-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ua-tv.png",FREEĞ”ĞĞœ HD
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/301/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="sonce-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/sonce_telekanal_ua.png",Ğ¡Ğ¾Ğ½Ñ†Ğµ
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/320/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="mega-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/mega-ua.png",ĞœĞµĞ³Ğ°
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/314/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="otse" tvg-logo="http://cdn.server-iptv.live/logo/tv/oce-ua.png",ĞĞ¦Ğ•
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/321/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="rada-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/rada_ua.png",Ğ Ğ°Ğ´Ğ°
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/334/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="pixel" tvg-logo="http://cdn.server-iptv.live/logo/tv/piksel_tv.png",ĞŸiĞºÑĞµĞ»ÑŒ
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/509/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="ua-odesa" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¡ÑƒÑĞ¿Ñ–Ğ»ÑŒĞ½Ğµ ĞĞ´ĞµÑĞ°
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/309/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",ĞšÑ€ÑƒĞ³ (ĞĞ´ĞµÑÑĞ°)
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/329/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="reportior" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ ĞµĞ¿Ğ¾Ñ€Ñ‚ĞµÑ€ (ĞĞ´ĞµÑÑĞ°)
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/337/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¡Ğš1 (Ğ–Ğ¸Ñ‚Ğ¾Ğ¼Ğ¸Ñ€)
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/331/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ˜Ğ·Ğ¼Ğ°Ğ¸Ğ» Ğ¢Ğ’
+#EXTGRP:Ğ£ĞºÑ€Ğ°Ğ¸Ğ½ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/327/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan.png",CineMan
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/682/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman_premium.png",CineMan Premium
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1664/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-top" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManTOP.png",CineMan Top
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/683/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManAction.png",CineMan Action
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/689/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-marvel" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMARVEL.png",CineMan Marvel
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/688/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-melodrama" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMelodrama.png",CineMan Melodrama
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/690/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManComedy.png",CineMan ĞšĞ¾Ğ¼ĞµĞ´Ğ¸Ñ
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/691/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-thriller" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManThiller.png",CineMan Thriller
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/686/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-katastrofy" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-katastrofy.png",CineMan ĞšĞ°Ñ‚Ğ°ÑÑ‚Ñ€Ğ¾Ñ„Ñ‹
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/693/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-uzhasy" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManUzhasy.png",CineMan Ğ£Ğ¶Ğ°ÑÑ‹
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/692/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-old4k" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-old4k.png",CineMan OLD 4K
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1603/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-vhs" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManVHS.png",CineMan VHS
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/685/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-skorpom" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-skorpom.png",CineMan Ğ¡ĞºĞ¾Ñ€Ğ°Ñ Ğ¿Ğ¾Ğ¼Ğ¾Ñ‰ÑŒ
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/694/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-miniseries" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManMiniSeries.png",CineMan MiniSeries
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1662/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-musw" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-MW.png",CineMan ĞœĞµĞ½Ñ‚Ğ¾Ğ²ÑĞºĞ¸Ğµ Ğ’Ğ¾Ğ¹Ğ½Ñ‹
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1657/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-gluhar" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-gluhar.png",CineMan Ğ“Ğ»ÑƒÑ…Ğ°Ñ€ÑŒ + ĞšĞ°Ñ€Ğ¿Ğ¾Ğ²
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1672/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-pes" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineMan-Pes.png",CineMan ĞŸÑ‘Ğ¡
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1658/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-lesnik" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cineman-Forester.png",CineMan Ğ›ĞµÑĞ½Ğ¸Ğº
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1659/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-aircrash" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-aircrash.png",CineMan Air Crash
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/419/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-sssr4k" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-sssr4k.png",CineMan CCCP 4K
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1602/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="amedia-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-premium-ru.png",Amedia Premium
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/624/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="amedia-hit" tvg-logo="http://cdn.server-iptv.live/logo/tv/amedia-hit-ru.png",Amedia Hit
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/625/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="amedia1" tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_1.png",Ğ1 HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/640/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="amedia2" tvg-logo="http://cdn.server-iptv.live/logo/tv/a_media_ru_2.png",A2 HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/641/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinopremiera-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_premyera.png",ĞšĞ˜ĞĞĞŸĞ Ğ•ĞœĞ¬Ğ•Ğ Ğ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/613/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="vip-premiere" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-premiere-se.png",VIP Premiere
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/605/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="vip-megahit" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-megahit-se.png",VIP Megahit
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/606/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="vip-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/vip-comedy-se.png",VIP Comedy
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/607/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinoxit" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_hit.png",ĞšĞ˜ĞĞĞ¥Ğ˜Ğ¢
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/608/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinomiks" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_miks.png",ĞšĞ˜ĞĞĞœĞ˜ĞšĞ¡
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/609/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinosemiya" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_semja.png",ĞšĞ˜ĞĞĞ¡Ğ•ĞœĞ¬Ğ¯
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/610/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinosvidanie" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_svidanie.png",ĞšĞ˜ĞĞĞ¡Ğ’Ğ˜Ğ”ĞĞĞ˜Ğ•
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/614/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="muzhskoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_muzhskoe_kino.png",ĞœĞ£Ğ–Ğ¡ĞšĞĞ• ĞšĞ˜ĞĞ
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/633/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinokomedia" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_medija.png",ĞšĞ¸Ğ½Ğ¾ĞºĞ¾Ğ¼ĞµĞ´Ğ¸Ñ
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/654/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinouzhas" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinouzhas-ru.png",ĞšĞ¸Ğ½Ğ¾ÑƒĞ¶Ğ°Ñ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/642/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinopokaz" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinopokaz_ru.png",ĞšĞ¸Ğ½Ğ¾Ğ¿Ğ¾ĞºĞ°Ğ·
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/611/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="premialnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/premialnoe-ru.png",ĞŸÑ€ĞµĞ¼Ğ¸Ğ°Ğ»ÑŒĞ½Ğ¾Ğµ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/612/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="khit" tvg-logo="http://cdn.server-iptv.live/logo/tv/hit-ru.png",Ğ¥Ğ¸Ñ‚ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/665/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kino-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/kino_tv_ru.png",ĞšĞ˜ĞĞ Ğ¢Ğ’
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/600/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="ostrosiuzhetnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/ostrosyuzhetnoye-ru.png",ĞÑÑ‚Ñ€Ğ¾ÑÑĞ¶ĞµÑ‚Ğ½Ğ¾Ğµ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/604/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="blokbaster" tvg-logo="http://cdn.server-iptv.live/logo/tv/blokbaster-ru.png",Ğ‘Ğ»Ğ¾ĞºĞ±Ğ°ÑÑ‚ĞµÑ€ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/668/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinojam1" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinojam1.png",ĞšĞ¸Ğ½Ğ¾Ğ´Ğ¶ĞµĞ¼ 1 HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/698/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinojam2" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinojam2.png",ĞšĞ¸Ğ½Ğ¾Ğ´Ğ¶ĞµĞ¼ 2 HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/699/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="tv1000" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_east.png",TV 1000
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/622/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="tv1000-action" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_action.png",TV1000 Action
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/623/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="tv1000-cee" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv1000-cee.png",Viasat Kino
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/618/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kino-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/kino-24.png",Kino 24
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1671/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kino-bez-granic" tvg-logo="http://cdn.server-iptv.live/logo/tv/kino-bez-granic.png",ĞšĞ¸Ğ½Ğ¾ Ğ±ĞµĞ· Ğ³Ñ€Ğ°Ğ½Ğ¸Ñ†
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1673/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinoliving" tvg-logo="http://cdn.server-iptv.live/logo/tv/kinoliving.png",KinoLiving
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1663/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kamedi" tvg-logo="http://cdn.server-iptv.live/logo/tv/kamedi.png",ĞšĞ°Ğ¼ĞµĞ´Ğ¸ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/676/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="komedijnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/komediynoe-ru.png",ĞšĞ¾Ğ¼ĞµĞ´Ğ¸Ğ¹Ğ½Ğ¾Ğµ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/617/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="russkaya-komedia" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkaya_komediya_ru.png",ĞšĞ¾Ğ¼ĞµĞ´Ğ¸Ñ
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/671/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="shokiruyushchee-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/shokiruyushchee-hd.png",Ğ¨Ğ¾ĞºĞ¸Ñ€ÑƒÑÑ‰ĞµĞµ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1661/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="trashtv" tvg-logo="http://cdn.server-iptv.live/logo/tv/trashtv.png",Trash
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/674/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="nst" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastoyashee_strashnoe_tv_ru.png",ĞĞ¡Ğ¢
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/660/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="hollywood-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/hollywood-hd-us-ru.png",Hollywood HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/669/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="hollywood" tvg-logo="http://cdn.server-iptv.live/logo/tv/hollywood-ru.png",Hollywood
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/634/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="paramount-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/paramount_comedy_ru.png",Paramount Comedy Russia
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/645/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="mir-seriala" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir_seriala_ru.png",ĞœĞ¸Ñ€ Ğ¡ĞµÑ€Ğ¸Ğ°Ğ»Ğ°
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/627/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kinoseria" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_kino_seriya.png",ĞšĞ¸Ğ½Ğ¾ÑĞµÑ€Ğ¸Ñ
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/650/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="domkino-premium" tvg-logo="http://cdn.server-iptv.live/logo/tv/dom_kino_ru_premium.png",Ğ”Ğ¾Ğ¼ ĞšĞ¸Ğ½Ğ¾ ĞŸÑ€ĞµĞ¼Ğ¸ÑƒĞ¼
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/603/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="domkino" tvg-logo="http://cdn.server-iptv.live/logo/tv/dom_kino_ru.png",Ğ”Ğ¾Ğ¼ ĞšĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/635/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="nashe-novoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_nashe_novoe_kino.png",ĞĞ°ÑˆĞµ Ğ½Ğ¾Ğ²Ğ¾Ğµ ĞºĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/620/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="nashehd" tvg-logo="http://cdn.server-iptv.live/logo/tv/nashe-ru.png",ĞĞ°ÑˆĞµ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/616/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="nash-kinopokaz" tvg-logo="http://cdn.server-iptv.live/logo/tv/nash-kinopokaz.png",ĞĞ°Ñˆ ĞšĞ¸Ğ½Ğ¾Ğ¿Ğ¾ĞºĞ°Ğ· HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/666/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="tv1000-russkoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_tv1000_russkoe_kino.png",TV1000 Ğ ÑƒÑÑĞºĞ¾Ğµ ĞºĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/621/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-rukino" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManRuKino.png",CineMan Ğ ÑƒĞšĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/687/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="rodnoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_rodnoe_kino.png",Ğ Ğ¾Ğ´Ğ½Ğ¾Ğµ ĞºĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/678/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="pobeda" tvg-logo="http://cdn.server-iptv.live/logo/tv/pobeda-ru.png",ĞŸĞ¾Ğ±ĞµĞ´Ğ°
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/632/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="arsenaltv" tvg-logo="http://cdn.server-iptv.live/logo/tv/arsenal-ru.png",ĞÑ€ÑĞµĞ½Ğ°Ğ» HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/664/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="russky-roman" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_roman_ru.png",Ğ ÑƒÑÑĞºĞ¸Ğ¹ Ñ€Ğ¾Ğ¼Ğ°Ğ½
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/629/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="nash-kinoroman" tvg-logo="http://cdn.server-iptv.live/logo/tv/nash_kinoroman_ru.png",ĞĞ°Ñˆ ĞšĞ¸Ğ½Ğ¾Ñ€Ğ¾Ğ¼Ğ°Ğ½
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/615/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="pro-lyubov" tvg-logo="http://cdn.server-iptv.live/logo/tv/pro-lyubov.png",ĞŸÑ€Ğ¾ Ğ›ÑĞ±Ğ¾Ğ²ÑŒ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/667/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="romantichnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/romantichnoe-ru.png",Ğ Ğ¾Ğ¼Ğ°Ğ½Ñ‚Ğ¸Ñ‡Ğ½Ğ¾Ğµ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1660/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="dushevnoe-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/dushevnoe-hd.png",Ğ”ÑƒÑˆĞµĞ²Ğ½Ğ¾Ğµ ĞºĞ¸Ğ½Ğ¾ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/697/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="russky-bestseller" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_bestseller_ru.png",Ğ ÑƒÑÑĞºĞ¸Ğ¹ Ğ±ĞµÑÑ‚ÑĞµĞ»Ğ»ĞµÑ€
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/630/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="russky-detektiv" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_detektiv_ru.png",Ğ ÑƒÑÑĞºĞ¸Ğ¹ Ğ´ĞµÑ‚ĞµĞºÑ‚Ğ¸Ğ²
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/679/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="russky-illuzion" tvg-logo="http://cdn.server-iptv.live/logo/tv/russkiy_illusion_ru.png",Ğ ÑƒÑÑĞºĞ¸Ğ¹ Ğ˜Ğ»Ğ»ÑĞ·Ğ¸Ğ¾Ğ½
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/631/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="illuzion-plus" tvg-logo="http://cdn.server-iptv.live/logo/tv/illusion_plus.png",Ğ˜Ğ»Ğ»ÑĞ·Ğ¸Ğ¾Ğ½ +
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/638/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="feniks-plus-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/fenix_plus_kino.png",Ğ¤ĞµĞ½Ğ¸ĞºÑ+ ĞšĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/680/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="mosfilm" tvg-logo="http://cdn.server-iptv.live/logo/tv/mosfilm.png",ĞœĞ¾ÑÑ„Ğ¸Ğ»ÑŒĞ¼. Ğ—Ğ¾Ğ»Ğ¾Ñ‚Ğ°Ñ ĞºĞ¾Ğ»Ğ»ĞµĞºÑ†Ğ¸Ñ
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/659/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="lubimoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/lubimoe_kino.png",Ğ Ğ¢Ğ’ Ğ›ÑĞ±Ğ¸Ğ¼Ğ¾Ğµ ĞºĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/619/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="retro-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/retro_tv_ru.png",Ğ ĞµÑ‚Ñ€Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/658/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="sony-scifi" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony_scifi_ru.png",Sony Sci-Fi
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/648/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="fanhd" tvg-logo="http://cdn.server-iptv.live/logo/tv/fan-ru.png",FAN HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/518/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="dorama" tvg-logo="http://cdn.server-iptv.live/logo/tv/dorama-uk.png",Ğ”Ğ¾Ñ€Ğ°Ğ¼Ğ°
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/675/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="fox" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox_global.png",Fox
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/626/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="foxlife" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox-life-us.png",Fox Life
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/646/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="shot-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/shot-tv-ru.png",Shot TV
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/657/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bolt-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/bolt.png",Bolt
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/637/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cinema-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekarta_ru_cinema.png",Cinema
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/628/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="tvxxi" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv21_lv.png",TV XXI
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/601/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="evrokino" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurokino.png",Ğ•Ğ²Ñ€Ğ¾ĞºĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/602/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-svaty" tvg-logo="http://cdn.server-iptv.live/logo/tv/CineManSvaty.png",CineMan Ğ¡Ğ²Ğ°Ñ‚Ñ‹
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/684/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="star-cinema" tvg-logo="http://cdn.server-iptv.live/logo/tv/star-cinema-ru.png",Star Cinema
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/643/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="star-family" tvg-logo="http://cdn.server-iptv.live/logo/tv/star-family-ua.png",Star Family
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/673/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kineko" tvg-logo="http://cdn.server-iptv.live/logo/tv/kineko.png",ĞšĞ¸Ğ½ĞµĞºĞ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/639/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="sapfir" tvg-logo="http://cdn.server-iptv.live/logo/tv/sapfir.png",Ğ¡Ğ°Ğ¿Ñ„Ğ¸Ñ€
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/647/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-interny" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-interny.png",CineMan Ğ˜Ğ½Ñ‚ĞµÑ€Ğ½Ñ‹
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1655/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="cineman-univer" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-univer.png",CineMan Ğ£Ğ½Ğ¸Ğ²ĞµÑ€
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1656/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="sony-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony.png",.red
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/695/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="sony-turbo" tvg-logo="http://cdn.server-iptv.live/logo/tv/sony-turbo.png",.black
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/649/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bollywood-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/bollywood_ru_hd.png",Bollywood
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/644/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="indiyskoe-kino" tvg-logo="http://cdn.server-iptv.live/logo/tv/nastroy_kino_ru_indisjkoe_kino.png",Ğ˜Ğ½Ğ´Ğ¸Ğ¹ÑĞºĞ¾Ğµ ĞºĞ¸Ğ½Ğ¾
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/651/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="kli-sssr" tvg-logo="http://cdn.server-iptv.live/logo/tv/kli-sssr.png",KLI Ğ¡Ğ¡Ğ¡Ğ 
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1600/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-premiere" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere.png",BCU Premiere HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1614/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-kinozal-prem-1" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere_1.png",BCU ĞšĞ¸Ğ½Ğ¾Ğ·Ğ°Ğ» Premiere 1 HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1621/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-kinozal-prem-2" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere_2.png",BCU ĞšĞ¸Ğ½Ğ¾Ğ·Ğ°Ğ» Premiere 2 HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1622/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-kinozal-prem-3" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_premiere_3.png",BCU ĞšĞ¸Ğ½Ğ¾Ğ·Ğ°Ğ» Premiere 3 HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1623/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-reality" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu-reality.png",BCU Reality HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1624/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-ultra4k" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu-ultra-4k.png",BCU Ultra 4K
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1619/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-criminal" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_criminal.png",BCU Criminal HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1605/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-marvel" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_marvel.png",BCU Marvel HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1612/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-fantastic" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_fantastic.png",BCU Fantastic HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1606/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-filmystic" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_filmystic.png",BCU FilMystic HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1607/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-comedy" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_comedy.png",BCU Comedy HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1604/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-history" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_history.png",BCU History HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1608/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-vhs" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_vhs.png",BCU VHS HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1620/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-stars" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_stars.png",BCU Stars HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1618/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-kinorating" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_kinorating.png",BCU Kinorating HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1613/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-romantic" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_romantic.png",BCU Romantic HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1616/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-russian" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_russian.png",BCU Russian HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1617/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-multserial" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_multserial.png",BCU ĞœÑƒĞ»ÑŒÑ‚ÑĞµÑ€Ğ¸Ğ°Ğ» HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1631/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-kids" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_kids.png",BCU Kids HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1610/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞšĞ¸Ğ½Ğ¾"  tvg-id="bcu-kids-plus" tvg-logo="http://cdn.server-iptv.live/logo/tv/bcu_kids+.png",BCU Kids+ HD
+#EXTGRP:ĞšĞ¸Ğ½Ğ¾
+http://ott.server-iptv.live/1609/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="cineman-fitnes" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-fitnes.png",CineMan Ğ¤Ğ¸Ñ‚Ğ½ĞµÑ
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/1404/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-premier" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png",ĞœĞĞ¢Ğ§ ĞŸĞ Ğ•ĞœĞ¬Ğ•Ğ 
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/208/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-premier" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-premier-ru.png",ĞœĞĞ¢Ğ§ ĞŸĞ Ğ•ĞœĞ¬Ğ•Ğ  SD
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/0208/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_tv.png",ĞœĞ°Ñ‚Ñ‡ Ğ¢Ğ’
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/207/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-football1" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_1.png",ĞœĞ°Ñ‚Ñ‡! Ğ¤ÑƒÑ‚Ğ±Ğ¾Ğ» 1
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/202/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-football2" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_2.png",ĞœĞ°Ñ‚Ñ‡! Ğ¤ÑƒÑ‚Ğ±Ğ¾Ğ» 2
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/203/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-football3" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_futbol_3.png",ĞœĞ°Ñ‚Ñ‡! Ğ¤ÑƒÑ‚Ğ±Ğ¾Ğ» 3
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/204/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="football-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_futbol_ru.png",Ğ¤ÑƒÑ‚Ğ±Ğ¾Ğ»
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/230/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-igra" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_igra.png",ĞœĞ°Ñ‚Ñ‡! Ğ˜Ğ³Ñ€Ğ°
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/205/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-arena" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_arena.png",ĞœĞ°Ñ‚Ñ‡! ĞÑ€ĞµĞ½Ğ°
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/206/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-nash-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/match-strana-ru.png",ĞœĞĞ¢Ğ§! Ğ¡Ğ¢Ğ ĞĞĞ
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/209/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="match-boets" tvg-logo="http://cdn.server-iptv.live/logo/tv/match_ru_boets.png",ĞœĞĞ¢Ğ§! Ğ‘Ğ¾ĞµÑ†
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/210/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="setanta-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-ua.png",Setanta Sports Ukraine HD
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/222/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="setanta-plus-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-plus-ua.png",SETANTA SPORTS+ HD
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/214/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="setanta-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta-kz.png",Setanta Qazaqstan HD
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/228/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="setanta-sports" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta_sports_1.jpg",SETANTA SPORTS HD
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/220/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="setanta-sports-plus" tvg-logo="http://cdn.server-iptv.live/logo/tv/setanta_sports_2.jpg",Setanta Sports 2
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/221/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¡Ğ¿Ğ¾Ñ€Ñ‚ Ğ¾Ğ½Ğ»Ğ°Ğ¹Ğ½
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/211/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="upltv" tvg-logo="http://cdn.server-iptv.live/logo/tv/upltv.png",UPL.TV
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/212/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="sport1-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/sport1_ua.png",Ğ¡Ğ¿Ğ¾Ñ€Ñ‚ 1
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/213/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="eurosport1" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_1.png",Eurosport
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/200/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="eurosport2" tvg-logo="http://cdn.server-iptv.live/logo/tv/eurosport_fr_2.png",Eurosport 2
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/201/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="viasat-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat-sport-east-se.png",Viasat Sport
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/215/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="mir-basketbola" tvg-logo="http://cdn.server-iptv.live/logo/tv/mir-basketbola-ru.png",ĞœĞ¸Ñ€ Ğ±Ğ°ÑĞºĞµÑ‚Ğ±Ğ¾Ğ»Ğ°
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/231/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="m1global" tvg-logo="http://cdn.server-iptv.live/logo/tv/m-1-global-tv-ru.png",M-1 Global
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/223/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="fightbox-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/fight_box_hd.png",FightBox
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/224/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="ufc" tvg-logo="http://cdn.server-iptv.live/logo/tv/ufc-tv-rossiya-us-ru.png",Ğ£Ğ´Ğ°Ñ€ HD
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/227/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="box-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/boks_tv_ru.png",Ğ‘Ğ¾ĞºÑ Ğ¢Ğ’
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/216/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="xsport-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/x-sport-ua.png",XSPORT
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/217/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="kxl-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/khl_ru_hd.png",ĞšĞ¥Ğ› HD
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/218/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="kxl" tvg-logo="http://cdn.server-iptv.live/logo/tv/khl_ru.png",ĞšĞ¥Ğ› Ğ¢Ğ’
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/225/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="start" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv_start.png",Ğ¡Ñ‚Ğ°Ñ€Ñ‚
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/226/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ¡Ğ¿Ğ¾Ñ€Ñ‚"  tvg-id="belarus5" tvg-logo="http://cdn.server-iptv.live/logo/tv/belorys5.jpg",Ğ‘ĞµĞ»Ğ°Ñ€ÑƒÑÑŒ 5
+#EXTGRP:Ğ¡Ğ¿Ğ¾Ñ€Ñ‚
+http://ott.server-iptv.live/219/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="national-geographic" tvg-logo="http://cdn.server-iptv.live/logo/tv/nat_geo_us.png",National Geographic HD
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/402/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="discovery-channel" tvg-logo="http://cdn.server-iptv.live/logo/tv/discovery-channel-east-us.png",Discovery Channel HD
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/401/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="hd-life" tvg-logo="http://cdn.server-iptv.live/logo/tv/hdl-ru.png",HDL HD
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/412/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="nauka-20" tvg-logo="http://cdn.server-iptv.live/logo/tv/nauka_ru.png",ĞĞ°ÑƒĞºĞ° HD
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/406/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="eureka-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/kosmichesky.png",ĞŸĞµÑ€Ğ²Ñ‹Ğ¹ ĞºĞ¾ÑĞ¼Ğ¸Ñ‡ĞµÑĞºĞ¸Ğ¹
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/418/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="galaxy-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/galaxy_tv_ru.png",Galaxy
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/447/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="tlc" tvg-logo="http://cdn.server-iptv.live/logo/tv/tlc_uk.png",TLC
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/413/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="id-xtra-eu" tvg-logo="http://cdn.server-iptv.live/logo/tv/investigation_discovery_us.png",ID Xtra
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/443/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="animal-planet-eu" tvg-logo="http://cdn.server-iptv.live/logo/tv/animal-planet-us.png",Animal Planet
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/400/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="nat-geo-wild" tvg-logo="http://cdn.server-iptv.live/logo/tv/nat_geo_wild_us.png",Nat Geo Wild
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/403/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="love-nature-4k" tvg-logo="http://cdn.server-iptv.live/logo/tv/love_nature_ca.png",Love Nature 4K
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/446/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="viasat-nature-history-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat-nature-history-hd.png",Viasat Nature/History HD
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/407/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="viasat-nature" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_nature_hd.png",Viasat Nature
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/449/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="rtg-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/rtg_russian_travel_guide.png",RTG TV
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/411/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="travel-channel" tvg-logo="http://cdn.server-iptv.live/logo/tv/travel_channel_us.png",Travel Channel
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/409/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="travel-adventure" tvg-logo="http://cdn.server-iptv.live/logo/tv/travel_adventure_channel_ru.png",Travel+Adventure
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/416/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="moya-planeta" tvg-logo="http://cdn.server-iptv.live/logo/tv/moya-planeta-ru.png",ĞœĞ¾Ñ ĞŸĞ»Ğ°Ğ½ĞµÑ‚Ğ°
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/404/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="bolshaya-azia" tvg-logo="http://cdn.server-iptv.live/logo/tv/bolshaya-aziya.png",Ğ‘Ğ¾Ğ»ÑŒÑˆĞ°Ñ ĞĞ·Ğ¸Ñ HD
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1402/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="viasat-explore" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_explore_ru.png",Viasat Explore
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/417/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="the-explorers" tvg-logo="http://cdn.server-iptv.live/logo/tv/the-explorers.png",The Explorers
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1406/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="history-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/history_us.png",History
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/414/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="h2" tvg-logo="http://cdn.server-iptv.live/logo/tv/h2-latinoamerica-us.png",History2
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/415/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="terra-ru" tvg-logo="http://cdn.server-iptv.live/logo/tv/terra-ru.png",Terra
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/0402/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="viasat-history" tvg-logo="http://cdn.server-iptv.live/logo/tv/viasat_history.png",Viasat History
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/410/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="365-dnej" tvg-logo="http://cdn.server-iptv.live/logo/tv/365_dnei_tv_ru.png",365 Ğ´Ğ½ĞµĞ¹ Ğ¢Ğ’
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/432/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="istoria" tvg-logo="http://cdn.server-iptv.live/logo/tv/istoriya_telekanal_ru.png",Ğ˜ÑÑ‚Ğ¾Ñ€Ğ¸Ñ
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1403/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="da-vinci" tvg-logo="http://cdn.server-iptv.live/logo/tv/da-vinci-de.png",Da Vinci
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1401/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="avto24" tvg-logo="http://cdn.server-iptv.live/logo/tv/avto24_ru.png",ĞĞ²Ñ‚Ğ¾24
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/408/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="sovsek" tvg-logo="http://cdn.server-iptv.live/logo/tv/soversheno_sekretno_ru.png",Ğ¡Ğ¾Ğ²ĞµÑ€ÑˆĞµĞ½Ğ½Ğ¾ ÑĞµĞºÑ€ĞµÑ‚Ğ½Ğ¾
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/430/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="vremia" tvg-logo="http://cdn.server-iptv.live/logo/tv/vremya_ru.png",Ğ’Ñ€ĞµĞ¼Ñ
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/431/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="nostalgia" tvg-logo="http://cdn.server-iptv.live/logo/tv/nostalgia_ru.png",ĞĞ¾ÑÑ‚Ğ°Ğ»ÑŒĞ³Ğ¸Ñ
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/433/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="kto-est-kto" tvg-logo="http://cdn.server-iptv.live/logo/tv/kto_est_kto_ru.png",ĞšÑ‚Ğ¾ ĞµÑÑ‚ÑŒ ĞºÑ‚Ğ¾
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/434/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="oxotnik-i-rybolov" tvg-logo="http://cdn.server-iptv.live/logo/tv/ohotnik-i-rybolov-ru.png",ĞÑ…Ğ¾Ñ‚Ğ½Ğ¸Ğº Ğ¸ Ñ€Ñ‹Ğ±Ğ¾Ğ»Ğ¾Ğ²
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/405/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="dikiy" tvg-logo="http://cdn.server-iptv.live/logo/tv/dikiy.png",Ğ”Ğ¸ĞºĞ¸Ğ¹
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/439/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="oxota-i-rybalka" tvg-logo="http://cdn.server-iptv.live/logo/tv/okhota-i-rybalka-ru.png",ĞÑ…Ğ¾Ñ‚Ğ° Ğ¸ Ğ Ñ‹Ğ±Ğ°Ğ»ĞºĞ°
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/438/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="ministerstvo-idey" tvg-logo="http://cdn.server-iptv.live/logo/tv/ministerstvo_idei.jpg",ĞœĞ¸Ğ½Ğ¸ÑÑ‚ĞµÑ€ÑÑ‚Ğ²Ğ¾ Ğ¸Ğ´ĞµĞ¹
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="bobior" tvg-logo="http://cdn.server-iptv.live/logo/tv/bober_tv_ru.png",Ğ‘Ğ¾Ğ±Ñ‘Ñ€
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/436/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="kuxnia-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/kuhnya_tv.png",ĞšÑƒÑ…Ğ½Ñ Ğ¢Ğ’
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/435/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="telekafe" tvg-logo="http://cdn.server-iptv.live/logo/tv/telecafe_ru.png",Ğ¢ĞµĞ»ĞµĞºĞ°Ñ„Ğµ
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/437/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="doktor" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal-doktor-ru.png",Ğ”Ğ¾ĞºÑ‚Ğ¾Ñ€
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/448/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="cineman-relax" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-relax.png",CineMan Relax 4K
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1405/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="nasha-sibir-4k" tvg-logo="http://cdn.server-iptv.live/logo/tv/nasha_sibir.png",ĞĞ°ÑˆĞ° Ğ¡Ğ¸Ğ±Ğ¸Ñ€ÑŒ
+#EXTGRP:ĞŸĞ¾Ğ·Ğ½Ğ°Ğ²Ğ°Ñ‚ĞµĞ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/429/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="russian-musicbox" tvg-logo="http://cdn.server-iptv.live/logo/tv/russian-music-box-ru.png",Russian Music Box
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/457/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="zhara" tvg-logo="http://cdn.server-iptv.live/logo/tv/zhara-tv-ru.png",Ğ–Ğ°Ñ€Ğ° HD
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/459/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="muztv" tvg-logo="http://cdn.server-iptv.live/logo/tv/muz-tv-ru.png",ĞœĞ£Ğ—-Ğ¢Ğ’
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/456/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="europa-plus-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/europa_plus_tv.png",Europa Plus TV
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/453/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="bridge-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge_tv_ru.png",Bridge TV
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/452/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="bridge-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-deluxe-ru.png",Bridge Deluxe HD
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/466/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="bridge-tv-dance" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-hits-ru.png",Bridge TV Hits
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/461/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="bridge-tv-classic" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge_tv_ru_classic.png",Bridge TV Classic
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/462/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="bridge-tv-fresh" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-fresh.png",Bridge tv Ğ¤Ñ€ÑÑˆ
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/464/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="bridge-tv-shlager" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-shlyager-ru.png",Bridge TV Ğ¨Ğ»ÑĞ³ĞµÑ€
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/467/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="bridge-tv-ruxit" tvg-logo="http://cdn.server-iptv.live/logo/tv/bridge-tv-russkiy-hit-ru.png",Bridge TV Ğ ÑƒÑÑĞºĞ¸Ğ¹ Ñ…Ğ¸Ñ‚
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/468/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="mtv-live-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/mtv_live_hd_us.png",MTV Live HD
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/458/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="mcm-top" tvg-logo="http://cdn.server-iptv.live/logo/tv/mcm-top-fr.png",MCM TOP
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/460/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="yo" tvg-logo="http://cdn.server-iptv.live/logo/tv/yo.png",#Ğ
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/465/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="shanson-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/shanson_tv_ru.png",Ğ¨Ğ°Ğ½ÑĞ¾Ğ½ Ğ¢Ğ’
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/451/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="la-minor" tvg-logo="http://cdn.server-iptv.live/logo/tv/la-minor-ru.png",Ğ›Ñ-Ğ¼Ğ¸Ğ½Ğ¾Ñ€
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/469/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="mezzo-live-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/mezzo_live_hd.png",Mezzo Live HD
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/470/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="mezzo" tvg-logo="http://cdn.server-iptv.live/logo/tv/mezzo-fr.png",Mezzo
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/454/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="classic-music" tvg-logo="http://cdn.server-iptv.live/logo/tv/classic-music.png",Classic Music
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/471/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="ru-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ru_tv_ru.png",RU.TV
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/463/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="onemuz" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_ru.png",ĞŸĞµÑ€Ğ²Ñ‹Ğ¹ ĞœÑƒĞ·Ñ‹ĞºĞ°Ğ»ÑŒĞ½Ñ‹Ğ¹
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://rtmp.one.by:2300
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/perviy_muzikalnii_en.png",ĞŸĞµÑ€Ğ²Ñ‹Ğ¹ ĞœÑƒĞ·Ñ‹ĞºĞ°Ğ»ÑŒĞ½Ñ‹Ğ¹ (int)
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://rtmp.one.by:1300/
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="m1-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/m1_ua.png",M1
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/455/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="ĞœÑƒĞ·Ñ‹ĞºĞ°"  tvg-id="m2-ua" tvg-logo="http://cdn.server-iptv.live/logo/tv/m2-ua.png",Ğœ2
+#EXTGRP:ĞœÑƒĞ·Ñ‹ĞºĞ°
+http://ott.server-iptv.live/332/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="cartoons-big" tvg-logo="http://cdn.server-iptv.live/logo/tv/CartoonsBIG.png",Cartoons Big
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/520/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="cartoons-short" tvg-logo="http://cdn.server-iptv.live/logo/tv/CartoonsSHORT.png",Cartoons Short
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/521/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="cartoons-90" tvg-logo="http://cdn.server-iptv.live/logo/tv/Cartoons90.png",Cartoons 90
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/519/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="cineman-simps" tvg-logo="http://cdn.server-iptv.live/logo/tv/cineman-simps.png",CineMan Ğ¡Ğ¸Ğ¼Ğ¿ÑĞ¾Ğ½Ñ‹
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/522/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="mult" tvg-logo="http://cdn.server-iptv.live/logo/tv/mult_ru.png",ĞœÑƒĞ»ÑŒÑ‚
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/501/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="liova" tvg-logo="http://cdn.server-iptv.live/logo/tv/liova.png",Ğ›Ñ‘Ğ²Ğ°
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/526/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="karusel" tvg-logo="http://cdn.server-iptv.live/logo/tv/karusel_tv.png",ĞšĞ°Ñ€ÑƒÑĞµĞ»ÑŒ
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/116/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="detsky" tvg-logo="http://cdn.server-iptv.live/logo/tv/unicum.png",Ğ£Ğ½Ğ¸ĞºÑƒĞ¼
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/503/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="v-gostiax-u-skazki" tvg-logo="http://cdn.server-iptv.live/logo/tv/v_gostyakh_u_skazki_ru.png",Ğ’ Ğ³Ğ¾ÑÑ‚ÑÑ… Ñƒ ÑĞºĞ°Ğ·ĞºĞ¸
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/505/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="detsky-mir" tvg-logo="http://cdn.server-iptv.live/logo/tv/detski_mir_ru.png",Ğ”ĞµÑ‚ÑĞºĞ¸Ğ¹ Ğ¼Ğ¸Ñ€
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/510/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="o_" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_o_ru.png",Ğ!
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/515/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="sts-kids-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/sts-kids-ru.png",Ğ¡Ğ¢Ğ¡ Kids HD
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/517/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="malysh" tvg-logo="http://cdn.server-iptv.live/logo/tv/supergeroi.png",Ğ¡ÑƒĞ¿ĞµÑ€Ğ³ĞµÑ€Ğ¾Ğ¸
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/525/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="multimania" tvg-logo="http://cdn.server-iptv.live/logo/tv/multilandia-ru.png",ĞœÑƒĞ»ÑŒÑ‚Ğ¸Ğ»Ğ°Ğ½Ğ´Ğ¸Ñ
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/516/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="tiji" tvg-logo="http://cdn.server-iptv.live/logo/tv/tiji_fr_russia.png",Tiji
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/502/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="gulli-girl" tvg-logo="http://cdn.server-iptv.live/logo/tv/gulli-girl-fr-ru.png",Gulli Girl
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/511/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="solnce" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¡Ğ¾Ğ»Ğ½Ñ†Ğµ
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/500/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="nickelodeon-cis" tvg-logo="http://cdn.server-iptv.live/logo/tv/nickelodeon_us_hd.png",Nickelodeon
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/504/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="nick-jr" tvg-logo="http://cdn.server-iptv.live/logo/tv/nick_jr_us.png",Nick Jr
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/512/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="cartoon-network" tvg-logo="http://cdn.server-iptv.live/logo/tv/cartoon_network_global.png",Cartoon Network HD
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/506/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="boomerang" tvg-logo="http://cdn.server-iptv.live/logo/tv/boomerang_global.png",Boomerang
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/514/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="2na2" tvg-logo="http://cdn.server-iptv.live/logo/tv/telekanal_2x2_ru.png",2x2
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/524/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="jimjam" tvg-logo="http://cdn.server-iptv.live/logo/tv/jimjam-uk.png",JimJam
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/507/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ"  tvg-id="multimuzyka" tvg-logo="http://cdn.server-iptv.live/logo/tv/multimuzyka.png",ĞœÑƒĞ»ÑŒÑ‚Ğ¸ĞœÑƒĞ·Ñ‹ĞºĞ°
+#EXTGRP:Ğ”ĞµÑ‚ÑĞºĞ¸Ğµ
+http://ott.server-iptv.live/523/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="belarus1" tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus_by_1.png",Ğ‘ĞµĞ»Ğ°Ñ€ÑƒÑÑŒ 1
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/381/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="belarus2" tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus2.png",Ğ‘ĞµĞ»Ğ°Ñ€ÑƒÑÑŒ 2
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/382/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="belarus3" tvg-logo="http://cdn.server-iptv.live/logo/tv/belarus3.png",Ğ‘ĞµĞ»Ğ°Ñ€ÑƒÑÑŒ 3
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/383/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="ntv-belarus" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntv-belarus.png",ĞĞ¢Ğ’-Ğ‘ĞµĞ»Ğ°Ñ€ÑƒÑÑŒ
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/385/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="tro" tvg-logo="http://cdn.server-iptv.live/logo/tv/belros-ru.png",Ğ‘ĞµĞ»Ğ Ğ¾Ñ
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/380/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="stv-by" tvg-logo="http://cdn.server-iptv.live/logo/tv/stv-by.png",Ğ¡Ğ¢Ğ’
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/384/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="tv8-md" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv8-md.png",TV8 Moldova
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/5101/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="polsat" tvg-logo="http://cdn.server-iptv.live/logo/tv/polsat.png",Polsat
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1100/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="tvp1" tvg-logo="http://cdn.server-iptv.live/logo/tv/tvp1.png",TVP 1
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1101/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="tvp2" tvg-logo="http://cdn.server-iptv.live/logo/tv/tvp2.png",TVP 2
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1102/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ"  tvg-id="tv4_pl" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv4_pl.png",TV 4
+#EXTGRP:Ğ ĞµĞ³Ğ¸Ğ¾Ğ½Ğ°Ğ»ÑŒĞ½Ñ‹Ğµ
+http://ott.server-iptv.live/1105/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="pervy-kanal-eurasia-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/pervy-kanal-eurasia-kz.png",ĞŸĞµÑ€Ğ²Ñ‹Ğ¹ ĞºĞ°Ğ½Ğ°Ğ» Ğ•Ğ²Ñ€Ğ°Ğ·Ğ¸Ñ
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2110/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="kazakhstan" tvg-logo="http://cdn.server-iptv.live/logo/tv/kazakhstan.png",Qazaqstan
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2103/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="astana" tvg-logo="http://cdn.server-iptv.live/logo/tv/astana-tv-kz.png",Astana
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2107/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="ktk-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/ktk-kz.png",ĞšĞ¢Ğš
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2109/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="xabar" tvg-logo="http://cdn.server-iptv.live/logo/tv/xabar.png",Ğ¥Ğ°Ğ±Ğ°Ñ€
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2106/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="xabar24" tvg-logo="http://cdn.server-iptv.live/logo/tv/khabar-24-kz.png",Ğ¥Ğ°Ğ±Ğ°Ñ€ 24
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2101/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="31-kanal-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/31-kanal-kz.png",31 ĞºĞ°Ğ½Ğ°Ğ» KZ
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2104/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="ntk-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/ntk-kz.png",ĞĞ¢Ğš
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2105/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Qazaqstan"  tvg-id="mtrk-kz" tvg-logo="http://cdn.server-iptv.live/logo/tv/mtrk-kz.png",ĞœĞ¢Ğ Ğš
+#EXTGRP:Qazaqstan
+http://ott.server-iptv.live/2102/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="aztv" tvg-logo="http://cdn.server-iptv.live/logo/tv/aztv.png",AzTV
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5001/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="medeniyyet" tvg-logo="http://cdn.server-iptv.live/logo/tv/medeniyyet.png",Medeniyyet TV
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5012/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="ictimai-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/ictimai-tv.png",Ictimai
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5013/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="azad-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/azad-tv.png",Azad AzÉ™rbaycan (ATV)
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5002/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="xezer" tvg-logo="http://cdn.server-iptv.live/logo/tv/xezer.png",Xezer
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5005/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="cbc-az" tvg-logo="http://cdn.server-iptv.live/logo/tv/cbc-az.png",CBC AZ
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5004/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="space-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/space-tv.png",Space TV
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5009/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="arb-az" tvg-logo="http://cdn.server-iptv.live/logo/tv/arb-az.png",ARB
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5003/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="arb-24" tvg-logo="http://cdn.server-iptv.live/logo/tv/arb-24.png",ARB24
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5006/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="arb-gunes" tvg-logo="http://cdn.server-iptv.live/logo/tv/arb-gunes.png",ARB Gunes
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5007/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="kanal-s" tvg-logo="http://cdn.server-iptv.live/logo/tv/kanal-s.png",Kanal S
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5008/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="dunya-az" tvg-logo="http://cdn.server-iptv.live/logo/tv/dunya-az.png",Dunya TV
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5010/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="cbc-sport" tvg-logo="http://cdn.server-iptv.live/logo/tv/cbc-sport.png",CBC Sport
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5011/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="idman" tvg-logo="http://cdn.server-iptv.live/logo/tv/idman.png",Idman TV
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5014/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="mtv-az" tvg-logo="http://cdn.server-iptv.live/logo/tv/mtv-az.png",MTV Azerbaycan
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5015/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="realtv-az" tvg-logo="http://cdn.server-iptv.live/logo/tv/realtv-az.png",RealTV HD
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5016/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="baku-az" tvg-logo="http://cdn.server-iptv.live/logo/tv/baku-az.png",Baku TV
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5017/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="tmb-az" tvg-logo="http://cdn.server-iptv.live/logo/tv/tmb-az.png",TMB Azerbaycan
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5018/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="az-news" tvg-logo="http://cdn.server-iptv.live/logo/tv/az-news.png",Az News TV
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5019/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Azerbaijan"  tvg-id="gunaz-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/gunaz-tv.png",GUNAZ TV
+#EXTGRP:Azerbaijan
+http://ott.server-iptv.live/5020/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",1 TV Georgia
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5401/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",2 TV
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5402/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Imedi
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5403/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ajara TV
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5405/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",GDS TV
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5406/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Mtavari Arkhi
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5407/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Obieqtivi
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5408/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",TV25 Georgia
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5409/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Qartuli TV
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5410/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Comedy Arkhi
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5411/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Pos TV
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5412/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Palitra News
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5413/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Maestro
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5414/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Georgia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Marao
+#EXTGRP:Georgia
+http://ott.server-iptv.live/5415/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="OÊ»zbekiston"  tvg-id="biz-cinema" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv-biz-cinema.jpg",Biz Cinema
+#EXTGRP:OÊ»zbekiston
+http://ott.server-iptv.live/5203/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="OÊ»zbekiston"  tvg-id="biz-music" tvg-logo="http://cdn.server-iptv.live/logo/tv/biz_music.png",Biz Music
+#EXTGRP:OÊ»zbekiston
+http://ott.server-iptv.live/5202/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="OÊ»zbekiston"  tvg-id="biz-music" tvg-logo="http://cdn.server-iptv.live/logo/tv/sport-uz.png",Sport UZ
+#EXTGRP:OÊ»zbekiston
+http://ott.server-iptv.live/5205/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="OÊ»zbekiston"  tvg-id="my5-uz" tvg-logo="http://cdn.server-iptv.live/logo/tv/my5-uz.png",My 5
+#EXTGRP:OÊ»zbekiston
+http://ott.server-iptv.live/5201/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="OÊ»zbekiston"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",SOLNECHNIY
+#EXTGRP:OÊ»zbekiston
+http://ott.server-iptv.live/5204/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Armenia TV
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5304/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="h1-am" tvg-logo="http://cdn.server-iptv.live/logo/tv/h1-am.png",H1
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5301/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",21HD
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5306/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Kentron
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5307/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",ATV
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5308/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",JanTV
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5310/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Cineman
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5311/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Filmzone ATV
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5312/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Shoxokat
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5313/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",HyeKino
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5314/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",HyeKino2
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5305/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="shant-tv" tvg-logo="http://cdn.server-iptv.live/logo/tv/shant-tv.png",Shant
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5303/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Armenia"  tvg-id="shoghakat" tvg-logo="http://cdn.server-iptv.live/logo/tv/shoghakat.png",Shoghakat
+#EXTGRP:Armenia
+http://ott.server-iptv.live/5302/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Tojikiston
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5601/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",TV Safina
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5602/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",TV Bahoriston
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5603/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ§Ğ°Ñ…Ğ¾Ğ½Ğ½Ğ°Ğ¼Ğ¾
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5604/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ’Ğ°Ñ€Ğ·Ğ¸Ñˆ ÑĞ¿Ğ¾Ñ€Ñ‚
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5605/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¡Ğ¸Ğ½Ğ°Ğ¼Ğ¾
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5606/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ”ÑƒÑˆĞ°Ğ½Ğ±Ğµ
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5607/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¤ÑƒÑ‚Ğ±Ğ¾Ğ»
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5608/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¨Ğ°Ñ…Ğ½Ğ°Ğ²Ğ¾Ğ·
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5609/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¥Ğ°Ñ‚Ğ»Ğ¾Ğ½
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5610/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ‘Ğ°Ğ´Ğ°Ñ…ÑˆĞ¾Ğ½
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5611/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",ĞšÑƒĞ»Ğ¾Ğ±
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5612/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¡Ñƒ Ğ´
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5613/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ¡Ğ°Ğ¹ĞµĞ¹Ñ…
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5614/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Tajikistan"  tvg-id="" tvg-logo="http://cdn.server-iptv.live/logo/tv/dummy_tv.jpg",Ğ˜Ğ»Ğ¼Ğ° Ğ²Ğ° Ñ‚Ğ°Ğ±Ğ¸Ğ°Ñ‚
+#EXTGRP:Tajikistan
+http://ott.server-iptv.live/5615/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Turkey"  tvg-id="trt-turk" tvg-logo="http://cdn.server-iptv.live/logo/tv/trt-turk.png",TRT TURK HD
+#EXTGRP:Turkey
+http://ott.server-iptv.live/5511/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Turkey"  tvg-id="fox-hd-tr" tvg-logo="http://cdn.server-iptv.live/logo/tv/fox-hd-tr.png",FOX HD
+#EXTGRP:Turkey
+http://ott.server-iptv.live/5501/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Turkey"  tvg-id="atv-hd-tr" tvg-logo="http://cdn.server-iptv.live/logo/tv/atv-hd-tr.png",ATV HD
+#EXTGRP:Turkey
+http://ott.server-iptv.live/5502/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Turkey"  tvg-id="kanal-d-hd" tvg-logo="http://cdn.server-iptv.live/logo/tv/kanal-d-hd.png",Kanal D
+#EXTGRP:Turkey
+http://ott.server-iptv.live/5504/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Turkey"  tvg-id="kanal-7-hd-tr" tvg-logo="http://cdn.server-iptv.live/logo/tv/kanal-7-hd-tr.png",Kanal 7
+#EXTGRP:Turkey
+http://ott.server-iptv.live/5505/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Turkey"  tvg-id="trt-cocuk" tvg-logo="http://cdn.server-iptv.live/logo/tv/trt-cocuk.png",TRT cocuk
+#EXTGRP:Turkey
+http://ott.server-iptv.live/5506/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Turkey"  tvg-id="tv8-tr" tvg-logo="http://cdn.server-iptv.live/logo/tv/tv8-tr.png",TV 8
+#EXTGRP:Turkey
+http://ott.server-iptv.live/5508/video.m3u8?token=S793FB1732
+#EXTINF:0 group-title="Turkey"  tvg-id="star-tv-hd-tr" tvg-logo="http://cdn.server-iptv.live/logo/tv/star-tv-hd-tr.png",STAR TV
+#EXTGRP:Turkey
+http://ott.server-iptv.live/5510/video.m3u8?token=S793FB1732
