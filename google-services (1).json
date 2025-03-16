@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "256044785998",
+    "firebase_url": "https://puutv-f3035-default-rtdb.firebaseio.com",
+    "project_id": "puutv-f3035",
+    "storage_bucket": "puutv-f3035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256044785998:android:1a17deee8d424459867e1f",
+        "android_client_info": {
+          "package_name": "com.altaflix.tobi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc6mfk_xBs_v7AqXau_X7Ovg1OWnpQbL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
