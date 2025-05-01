@@ -2,8 +2,8 @@ const express = require("express");
 const fetch = require("node-fetch");
 const app = express();
 
-const TOKEN = "YOUR_TELEGRAM_BOT_TOKEN";
-const CHAT_ID = "YOUR_CHAT_ID";
+const TOKEN = "7426497726:AAEPDzRSsXjAvTFpN_B7bteQj00a6wacSAg";
+const CHAT_ID = "1224314188";
 const SECRET_KEY = "123456"; // uygulamanla paylaşacağın gizli anahtar
 
 app.get("/", async (req, res) => {
