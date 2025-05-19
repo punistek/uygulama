@@ -1,0 +1,1189 @@
+[
+  {
+    "name": "TRT 4k",
+    "url": "https://xgrup.duckdns.org/xbyte.m3u8/?id=3317656516.m3u8",
+    "img": "https://i.hizliresim.com/dp4tue3.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "TRT 1",
+    "url": "https://tv-trt1.medya.trt.com.tr/master_1080.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_1_logo_%282012-2021%29.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "TRT 2",
+    "url": "https://tv-trt2.medya.trt.com.tr/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/TRT_2_logo.svg",
+    "category": "ulusal"
+  },
+  {
+    "name": "KANAL D",
+    "url": "https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/archive/4/4e/20240406161353%21Kanal_D.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "SHOW TV",
+    "url": "https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8",
+    "img": "https://i.hizliresim.com/83205vu.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "STAR TV",
+    "url": "https://dogus-live.daioncdn.net/startv/startv_720p.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/1200px-StarTV.svg.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "ATV",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=13351",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Atv_logo_2010.svg/640px-Atv_logo_2010.svg.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "NOW TV",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11906",
+    "img": "https://i.hizliresim.com/2xpuevm.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "TV8",
+    "url": "https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8",
+    "img": "https://i.hizliresim.com/nu7axpp.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "TV8,5",
+    "url": "https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",
+    "category": "ulusal"
+  },
+  {
+    "name": "360",
+    "url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+    "img": "https://www.turkmedya.com.tr/assets/img/logo/logo_360tv.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "TEVE 2",
+    "url": "https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8",
+    "img": "https://static.ssportplus.com/wp-content/uploads/2024/03/teve2-1-768x768.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "KANAL 7",
+    "url": "https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8",
+    "img": "https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/241-101_import.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "A2",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8",
+    "img": "https://iatv.tmgrup.com.tr/site/v2/a2tv/i/a2tv-logo.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "CNBC-E",
+    "url": "yt=XihyuKSyUD0",
+    "img": "https://s.cnbce.com/dist/images/logo.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "ULUSAL TV",
+    "url": "yt=dK96AZbCns0",
+    "img": "https://s.ulusal.com.tr/assets/web/images/logo.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "SHOWMAX TV",
+    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Show_MAX_logo.svg/1200px-Show_MAX_logo.svg.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "Ekol Tv",
+    "url": "https://ekoltv-live.ercdn.net/ekoltv/ekoltv_720p.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1ATwLkbjjSh4Hexcwf4iLYgowKYAKAj_bw&s",
+    "category": "ulusal"
+  },
+  {
+    "name": "Fortuna Tv",
+    "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8",
+    "img": "https://pbs.twimg.com/profile_images/1904312627020349440/fb597Abh_400x400.jpg",
+    "category": "ulusal"
+  },
+  {
+    "name": "Woman Tv",
+    "url": "https://s01.webcaster.cloud/wmtv/live_1080p.m3u8",
+    "img": "https://www.guncelkadin.com.tr/wp-content/uploads/2022/02/www.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "Sağlık Tv",
+    "url": "https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8",
+    "img": "https://i.hizliresim.com/n0ryun8.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "Eurostar",
+    "url": "https://canlitvulusal.xyz/live/eurostar/index.m3u8",
+    "img": "https://i.hizliresim.com/gaijkl1.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "Show Turk",
+    "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/1200px-Show_Turk_logo.svg.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "TRT KURDİ",
+    "url": "https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/2560px-TRT_Kurd%C3%AE_logo.svg.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "TRT AVAZ",
+    "url": "https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/2560px-TRT_Avaz_logo.svg.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "TV 4",
+    "url": "https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/02/TV4_logo.png",
+    "category": "ulusal"
+  },
+  {
+    "name": "BEYAZ TV",
+    "url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/9/9e/Beyaz-tv-tr.png/revision/latest?cb=20220108221208",
+    "category": "ulusal"
+  },
+  {
+    "name": "Kudus Tv",
+    "img": "https://kudustv.com.tr/images/logo/logo.png?",
+    "url": "https://yayin30.haber100.com/live/kudustv/.m3u8",
+    "category": "dini"
+  },
+  {
+    "name": "Kurtlar Vadisi",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=BhUr9G4e2s4",
+    "category": "724"
+  },
+  {
+    "name": "Kemal Sunal TV",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=hfx8H7YrmTw",
+    "category": "724"
+  },
+  {
+    "name": "ŞABAN TV",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=FGL1GwoRRIw",
+    "category": "724"
+  },
+  {
+    "name": "METİN-ZEKİ TV",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=9ZMh3wSverE",
+    "category": "724"
+  },
+  {
+    "name": "ÇOCUKLAR DUYMASIN ESKİ",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=BjEBboWV_G0",
+    "category": "724"
+  },
+  {
+    "name": "ÇOCUKLAR DUYMASIN YENİ",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=EVZmJPw-7hY",
+    "category": "724"
+  },
+  {
+    "name": "BİZİMKİLER",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=su2Z2_AT4ng",
+    "category": "724"
+  },
+  {
+    "name": "MEDCEZİR TEPE",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=MLUGblGpm8A",
+    "category": "724"
+  },
+  {
+    "name": "AVRUPA YAKASI",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=jDBzAsFClXI",
+    "category": "724"
+  },
+  {
+    "name": "BEHZAT Ç",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=V6_46VDV1dY",
+    "category": "724"
+  },
+  {
+    "name": "YAPRAK DÖKÜMÜ",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=crwxJBQKWj4",
+    "category": "724"
+  },
+  {
+    "name": "SİHİRLİ ANNEM",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=KCejwr4z7NQ",
+    "category": "724"
+  },
+  {
+    "name": "LEYLA İLE MECNUN",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=3nlND4audLg",
+    "category": "724"
+  },
+  {
+    "name": "ZENGİN KIZ FAKİR OĞLAN",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=3kTcvGWaO3Q",
+    "category": "724"
+  },
+  {
+    "name": "CENNET MAHALLESİ",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=lf1NxAexRAE",
+    "category": "724"
+  },
+  {
+    "name": "KİRALIK AŞK",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=n3_DG0Sv0kw",
+    "category": "724"
+  },
+  {
+    "name": "EMRET KOMUTANIM",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=toD9B3krEgo",
+    "category": "724"
+  },
+  {
+    "name": "YALAN DÜNYA",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=swCdxaGHkM8",
+    "category": "724"
+  },
+  {
+    "name": "YEŞİLÇAM TV 1",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=8GyfV8qhpIs",
+    "category": "724"
+  },
+  {
+    "name": "KURULUŞ OSMAN",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=PobdnBU-QQE",
+    "category": "724"
+  },
+  {
+    "name": "MÜGE ANLI İLE TATLI SERT ARŞİV",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=pfBAzARGqLM",
+    "category": "724"
+  },
+  {
+    "name": "ÇOK GÜZEL HAREKETLER 2",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=iSs2JX68DZw",
+    "category": "724"
+  },
+  {
+    "name": "ADINI FERİHA KOYDUM",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=PikNiUKUGM4",
+    "category": "724"
+  },
+  {
+    "name": "EŞKİYA DÜNYAYA HÜKÜMDAR OLMAZ",
+    "img": "https://i.hizliresim.com/sudoq4t.png",
+    "url": "yt=F0yeYa-SSDc",
+    "category": "724"
+  },
+  {
+    "name": "MAKKAH TV",
+    "img": "https://rp-cms.imgix.net/wp-content/uploads/haidan-IAwnp88Fz8Y-unsplash-scaled-e1729588123400.jpg",
+    "url": "yt=0EGfLYB6eyI",
+    "category": "dini"
+  },
+  {
+    "name": "MADİNA TV",
+    "img": "https://is1-ssl.mzstatic.com/image/thumb/Purple60/v4/c5/ee/17/c5ee1744-37da-c5b0-1d2f-e9bb32fcd7ad/source/512x512bb.jpg",
+    "url": "yt=yWw0DWJQVtU",
+    "category": "dini"
+  },
+  {
+    "name": "KRAL POP TV",
+    "img": "https://1.bp.blogspot.com/-OwtX-qKt8Y8/VpF2tDHe7oI/AAAAAAAANZU/X8BO2AKzP34/s1600/kralpoptv.jpg",
+    "url": "https://dogus-live.daioncdn.net/kralpoptv/playlist.m3u8",
+    "category": "müzik"
+  },
+  {
+    "name": "POWER TV",
+    "img": "https://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg",
+    "url": "https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8",
+    "category": "müzik"
+  },
+  {
+    "name": "POWER TÜRK TV",
+    "img": "https://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg",
+    "url": "https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlists.m3u8",
+    "category": "müzik"
+  },
+  {
+    "name": "POWERTÜRK AKUSTİK",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuHacnIlTTGTHqsMkUE2Qm65JKxbd39K3U_zqE3141NWJIEgKGC9IlEabO0wNLj9S3soNKMmM8s4Yq9kmu79d5M9lScbgEa-zHzzq2cXlcyXN6BT-BwOaP8tELAn-8_T0XCWfStV2aBJFNJbmN9mBLBzXCceyqM9xgRWsGbg0hsr_qyhKE6HgrDDsRNg/s1600/pt",
+    "url": "https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8",
+    "category": "müzik"
+  },
+  {
+    "name": "POWERTÜRK SLOW",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJZT3K5shS_3MGOEzDo02s_tq7-XEUxS8PgCLHVEUSQ-9N4B9XNP3USEny7Kfjx3LErfstFIive7xC0whh50VF4cnh4E74FVDmxLhuVtUoL_wG6MBcG2vXmRV4qwynjtZovRIlmfuf62k-D-f70dKAG7L52Odbw5xyq4ftv1dJC41-5_Xv5i0gCr_85w/s1600/pt",
+    "url": "https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8",
+    "category": "müzik"
+  },
+  {
+    "name": "POWERTÜRK TAPTAZE",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie7QdP03xbV_JAtY8WV4jJU4SbcVI8xTRevpKtuuPBzdeL6C30oos12dyy8RSF2ZHX7XX__TaYBT69Jj4CrK83Xhe3xm977LIft8zClTwqxsJ3rTwu61KNKhI8juH5lsihBFyiNehN00VdT41Vzq54hIqLpjQ9gI9pSfiTk6kc1DTlhbkBrUsrvJp1fw/s1600/pt",
+    "url": "https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8",
+    "category": "müzik"
+  },
+  {
+    "name": "DREAM TÜRK TV",
+    "img": "https://3.bp.blogspot.com/-naVuMYoLMTI/Xk13J6ZQj6I/AAAAAAAAYDQ/OcOieuD7xSkcwxFBIwWMuHHI5dx1-GFZQCLcBGAsYHQ/s1600/dreamturk.jpg",
+    "url": "https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8",
+    "category": "müzik"
+  },
+  {
+    "name": "FİNEST TV",
+    "img": "https://3.bp.blogspot.com/-qlO8gZZSe6s/WYWU6_5yJeI/AAAAAAAATmg/2fN-shn7Rv4GhTTsnF1xpN5oLBdg0HOagCLcBGAs/s1600/f.jpg",
+    "url": "https://media.finest.tv/hls/live.m3u8",
+    "category": "müzik"
+  },
+  {
+    "name": "NUMBER 1 TÜRK TV",
+    "img": "https://1.bp.blogspot.com/-OvCV-qKr2fc/Xk140I96rqI/AAAAAAAAYEc/Vbvxg8SOvZQnSCsdrF1fCki03HoXmeSeQCLcBGAsYHQ/s1600/nrturk.jpg",
+    "url": "https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/playlist.m3u8?md5=T5XRaMShyuirhEdm4U70yQ&expires=1745141016",
+    "category": "müzik"
+  },
+  {
+    "name": "DİYANET TV",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/1200px-Diyanet_TV_logo.svg.png",
+    "url": "yt=Y_fVlTEd9iQ",
+    "category": "dini"
+  },
+  {
+    "name": "SEMERKAND TV",
+    "img": "https://files.sikayetvar.com/lg/cmp/19/196153.png",
+    "url": "yt=b38rlrXHvGU",
+    "category": "dini"
+  },
+  {
+    "name": "VAV TV",
+    "img": "https://tvepg.eu/img/turkey/logo/vav_tv.png",
+    "url": "yt=aI65zlH3UT8",
+    "category": "dini"
+  },
+  {
+    "name": "LOFİ MUSİC",
+    "img": "https://miro.medium.com/v2/resize:fit:908/1*rWPtpCVyu2ATTCFDRO-xSQ.jpeg",
+    "url": "yt=jfKfPfyJRdk",
+    "category": "müzik"
+  },
+  {
+    "name": "RAHATLATICI 1",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=5c381FDsW8w",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 2",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=jAQj_1lmByw",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 3",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=fTb6yJ7AlT8",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 4",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=bv9uk_5znBY",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 5",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=ueByee1DhX4",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 6",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=nrFwAgnKXZ0",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 7",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=PoBXUTVuPWU",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 8",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=ySfbEYyr5jo",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 9",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=BG5vzVfaFGk",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 10",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=Cghmkd0zHF4",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "ŞÖMİNE",
+    "img": "https://p4.wallpaperbetter.com/wallpaper/19/215/735/fireplace-fire-wallpaper-preview.jpg",
+    "url": "yt=mKCieTImjvU",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 11",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=FrULPuxyhWE",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 12",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=x_4hS1A5wws",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "RAHATLATICI 13",
+    "img": "https://i.hizliresim.com/fgki5uu.png",
+    "url": "yt=pCytGSN9oms",
+    "category": "rahatlatıcı"
+  },
+  {
+    "name": "NATIONAL GEOGRAPHIC",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1024px-Natgeologo.svg.png",
+    "url": "https://saran-live.ercdn.net/natgeohd/index.m3u8",
+    "category": "belgesel"
+  },
+  {
+    "name": "NATIONAL GEOGRAPHIC WILD",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",
+    "url": "https://saran-live.ercdn.net/natgeowild/index.m3u8",
+    "category": "belgesel"
+  },
+  {
+    "name": "BBC EARTH",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11896",
+    "category": "belgesel"
+  },
+  {
+    "name": "LOVE NATURE",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/1/1d/Love_Nature_TV.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=18359",
+    "category": "belgesel"
+  },
+  {
+    "name": "DİSCOVERY CHANNEL",
+    "img": "https://www.discoverychannel.com.tr/app/themes/discovery/assets/img/logo_new.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11894",
+    "category": "belgesel"
+  },
+  {
+    "name": "DİSCOVERY IDX",
+    "img": "https://i.hizliresim.com/qgalpjv.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11891",
+    "category": "belgesel"
+  },
+  {
+    "name": "HİSTORY CHANNEL",
+    "img": "https://i.hizliresim.com/1xjgeyf.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=37198",
+    "category": "belgesel"
+  },
+  {
+    "name": "VİA HİSTORY",
+    "img": "https://i.hizliresim.com/jystjcb.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=13387",
+    "category": "belgesel"
+  },
+  {
+    "name": "TLC",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png",
+    "url": "https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8",
+    "category": "belgesel"
+  },
+  {
+    "name": "DMAX",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png",
+    "url": "https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8",
+    "category": "belgesel"
+  },
+  {
+    "name": "VİASAT NATURE",
+    "img": "https://i.hizliresim.com/tmbg03p.png",
+    "url": "https://xgrup.duckdns.org/xbyte.m3u8/?id=691736606.m3u8",
+    "category": "belgesel"
+  },
+  {
+    "name": "Animaux",
+    "img": "https://i.hizliresim.com/a7lkoel.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8yMTAzNzAyMTMwYmVhZDE2MGM3ZmZk",
+    "category": "belgesel"
+  },
+  {
+    "name": "Animal Planet",
+    "img": "https://i.hizliresim.com/e5y13oj.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8yMTEwMTYxMzU1YWRmZjg5MjcxMzU2",
+    "category": "belgesel"
+  },
+  {
+    "name": "BEİN İZ",
+    "img": "https://i.hizliresim.com/sprs2vv.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8xNjkxMjIzMDc4MmRlNmMyYmExOTc4",
+    "category": "belgesel"
+  },
+  {
+    "name": "BEİN GURME",
+    "img": "https://i.hizliresim.com/i5av3ri.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS85NTAzOTQ2NTY4Mzc3ZTFiYTE0Yzg=",
+    "category": "belgesel"
+  },
+  {
+    "name": "BEİN SPORTS HABER",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/BeIN_Sports_Haber.png",
+    "url": "yt=VCl1wO81VdM",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS XTV",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",
+    "url": "https://raw.githubusercontent.com/ankaphoe/Deneme/refs/heads/main/pal.m3u8",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayinzirve.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayinb2.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayinb3.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayinb4.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS 5",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayinb5.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS MAX 1",
+    "img": "https://i.hizliresim.com/mr5s8l0.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayinbm1.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS MAX 2",
+    "img": "https://i.hizliresim.com/mr5s8l0.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayinbm2.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "TİVİBU SPOR",
+    "img": "https://i.hizliresim.com/mthhugs.png",
+    "url": "https://cors.registraunaestrella.com/http://xbyte.mywire.org:7701/tvxadmin/k9bRw5oxVAvwMpK1/ts/index.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TİVİBU SPOR 1",
+    "img": "https://i.hizliresim.com/mthhugs.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayint1.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "TİVİBU SPOR 2",
+    "img": "https://i.hizliresim.com/mthhugs.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayint2.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "TİVİBU SPOR 3",
+    "img": "https://i.hizliresim.com/mthhugs.png",
+    "url": "https://cors.registraunaestrella.com/https://d0.4928d54d950ee70q4.lat/yayint3.m3u8",
+    "referer": "https://trgoalsgiris.xyz/",
+    "category": "spor"
+  },
+  {
+    "name": "TİVİBU SPOR 4",
+    "img": "https://i.hizliresim.com/mthhugs.png",
+    "url": "https://cors.registraunaestrella.com/http://xbyte.mywire.org:7701/tvxadmin/k9bRw5oxVAvwMpK1/ts4/index.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "EUROSPORT 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11892",
+    "category": "spor"
+  },
+  {
+    "name": "EUROSPORT 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Eurosport_Logo_2015.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11900",
+    "category": "spor"
+  },
+  {
+    "name": "SPOR SMART 1",
+    "img": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11909",
+    "category": "spor"
+  },
+  {
+    "name": "SPOR SMART 2",
+    "img": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/sporsmart.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=14585",
+    "category": "spor"
+  },
+  {
+    "name": "S SPORT 1",
+    "img": "https://i.hizliresim.com/59wqjxa.png",
+    "url": "https://xdsgo.duckdns.org/ss/hayatbiziyordu1.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "S SPORT 2",
+    "img": "https://i.hizliresim.com/59wqjxa.png",
+    "url": "https://xdsgo.duckdns.org/ss/hayatbiziyordu2.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "NBA TV",
+    "img": "https://i.hizliresim.com/cygrj89.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11903",
+    "category": "spor"
+  },
+  {
+    "name": "TRT SPOR",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/1024px-TRT_Spor_logo_%282022%29.svg.png",
+    "url": "https://trt.daioncdn.net/trtspor/master.m3u8?app=web",
+    "category": "spor"
+  },
+  {
+    "name": "TRT SPOR YILDIZ",
+    "img": "https://logos-world.net/wp-content/uploads/2021/06/TRT-Spor-Yildiz-New-Logo.png",
+    "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "A SPOR",
+    "img": "https://i.tmgrup.com.tr/aSpor/i/logo.png",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TABİİ SPOR",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png",
+    "url": "https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_1080p.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TABİİ SPOR 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png",
+    "url": "https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_1080p.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TABİİ SPOR 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png",
+    "url": "https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080p.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TABİİ SPOR 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png",
+    "url": "https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master_1080p.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TABİİ SPOR 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png",
+    "url": "https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master_1080p.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TABİİ SPOR 5",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png",
+    "url": "https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master_1080p.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TABİİ SPOR 6",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Tabii_-_TRT_Logo.png",
+    "url": "https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master_1080p.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "HT SPOR",
+    "img": "https://i.ibb.co/F0Tsz1v/htsportr.png",
+    "url": "https://ciner-live.daioncdn.net/ht-spor/ht-spor.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "FB TV",
+    "img": "https://media.fenerbahce.org/FB/media/FB/Images/Logo/logo.png",
+    "url": "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "GS TV",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Gstv_00.png",
+    "url": "https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunlist.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "SPORTS TV",
+    "img": "https://i.ibb.co/4Rm7Z6Z/sports22.png",
+    "url": "https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TJK TV",
+    "img": "https://i.ibb.co/0Yt6jbg/tjk.png",
+    "url": "https://tjktv-live.tjk.org/tjktv/tjktv.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "TJK 2 TV",
+    "img": "https://i.ibb.co/0Yt6jbg/tjk.png",
+    "url": "https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8",
+    "category": "spor"
+  },
+  {
+    "name": "SİNEMA TV 1",
+    "img": "https://sinematv.com.tr/content/logo/SINEMATV.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22894",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA TV 2",
+    "img": "https://sinematv.com.tr/content/logo/SINEMATV.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22904",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA AKSİYON",
+    "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22896",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA AKSİYON 2",
+    "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22895",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA AİLE",
+    "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22897",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA AİLE 2",
+    "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aile.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22898",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA 1001",
+    "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22901",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA 1002",
+    "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22902",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA KOMEDİ",
+    "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png",
+    "url": "https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNS8yMDI1IDU6MTA6MjQgUE0maGFzaF92YWx1ZT1UelVJNkFBd3RwM3ovT3pRZTdFQmFnPT0mdmFsaWRtaW51dGVzPTI4ODAmaWQ9MDkzZDcyMGEtNTAyYy00MWVkLWE4MGYtMmI4MTY5ODRmYjk1LDg5NzQxZmVjLTFkMzMtNGMwMC1hZmNkLTNmZGFmZTBiNmEyZCwxNTJiZDUzOS02MjIwLTQ0MjctYTkxNS1iZjRiZDA2OGQ3ZTgsYTY5OWI4M2YtODI2Yi00ZDk5LTkzNjEtYzhhMzEzMjE4ZDQ2LDAsOjpmZmZmOjEwLjAuMC41",
+    "category": "sinema"
+  },
+  {
+    "name": "SİNEMA KOMEDİ 2",
+    "img": "https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komedi.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=22900",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN SERİES 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8yMTkwOTIyMjk4OTU4N2QwODI4OWEw",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN SERİES 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8zMzA4NjkzNzM4MTdjNGZhYjZjZjMy",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN SERİES 3",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS80MTY2NDE4Nzc4OGIxZjEzNjE5YTc3",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN SERİES 4",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bein-series.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8xMjQ5MjcxMTE0NWU5ZjY2MDdiOWJh",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN MOVİES ACTION",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8xODczNDc4MTMxOGRiYWU3ZWI2NDIx",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN MOVİES FAMILY",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8xMzIyMjI4MDY4MjhhOGI1MTBkYmMz",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN MOVİES PREMİERE 1",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS85NDI5ODcyMjQ2MzlhZjRkMGRmODk=",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN MOVİES PREMİERE 2",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8yMTIwMjE4MzU2M2Y1NDdmMTYzZjI4",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN MOVİES STARS",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8xOTYzNzQ4Nzg0ZDEzNzFlODJmMWY1",
+    "category": "sinema"
+  },
+  {
+    "name": "BEİN MOVİES TÜRK",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Bein_movies.png",
+    "url": "https://xgrup.duckdns.org/cdn/getrok/1.m3u8?v=aHR0cHM6Ly9vaGEudG8vb2hhLWlwdHYvcGxheS8zMzkwNTc1OTQ4MjA1M2UyN2M5YjBm",
+    "category": "sinema"
+  },
+  {
+    "name": "MOVİE SMART CLASSİC",
+    "img": "https://i.hizliresim.com/mhxc6j8.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=13864",
+    "category": "sinema"
+  },
+  {
+    "name": "MOVİE SMART TÜRK",
+    "img": "https://i.hizliresim.com/mhxc6j8.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=13863",
+    "category": "sinema"
+  },
+  {
+    "name": "DİZİSMART PREMİUM",
+    "img": "https://i.hizliresim.com/mhxc6j8.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=12174",
+    "category": "sinema"
+  },
+  {
+    "name": "DİZİSMART MAX",
+    "img": "https://i.hizliresim.com/mhxc6j8.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11913",
+    "category": "sinema"
+  },
+  {
+    "name": "FİLMSCREEN",
+    "img": "https://i.hizliresim.com/mhxc6j8.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11902",
+    "category": "sinema"
+  },
+  {
+    "name": "FX",
+    "img": "https://i.hizliresim.com/ri4540a.png",
+    "url": "https://saran-live.ercdn.net/fx/index.m3u8",
+    "category": "sinema"
+  },
+  {
+    "name": "TİVİ 6",
+    "img": "https://i.ibb.co/sRNHKjS/tivi622.png",
+    "url": "https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8",
+    "category": "sinema"
+  },
+  {
+    "name": "HABER GLOBAL",
+    "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/603dfe0f866ac31798b3f4fa",
+    "url": "https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "HABER TÜRK",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Haberturk_logo.png",
+    "url": "https://ciner-live.daioncdn.net/haberturktv/haberturktv_720p.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "TGRT HABER",
+    "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5c63c466866ac30cbc2ad84f",
+    "url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "TRT HABER",
+    "img": "https://i.hizliresim.com/i5iat0a.png",
+    "url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "CNN TÜRK",
+    "img": "https://temizerhukuk.com/wp-content/uploads/1200px-CNN_Turk_201x_logo.svg_-768x618.png",
+    "url": "yt=VXMR3YQ7W3s",
+    "category": "haber"
+  },
+  {
+    "name": "HALK TV",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/42/Halk_TV_logo.png",
+    "url": "https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "A HABER",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",
+    "url": "yt=nmY9i63t6qo",
+    "category": "haber"
+  },
+  {
+    "name": "NTV",
+    "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/56a72d98058d024d98970264",
+    "url": "https://dogus-live.daioncdn.net/ntv/ntv.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "KANAL 24",
+    "img": "https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2bca3866ac331e0feb1ed",
+    "url": "https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "TELE 1",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png",
+    "url": "yt=fNqmmqNNGp8",
+    "category": "haber"
+  },
+  {
+    "name": "SÖZCÜ TV",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png",
+    "url": "yt=ztmY_cCtUl0",
+    "category": "haber"
+  },
+  {
+    "name": "TV 100",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png",
+    "url": "https://tv100-live.daioncdn.net/tv100/tv100.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "ÜLKE TV",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/1/11/%C3%9Clke_TV_Logosu.png",
+    "url": "https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "BENGÜ TÜRK",
+    "img": "https://i.ibb.co/0MHPk8y/benguturk.png",
+    "url": "https://tv.ensonhaber.com/benguturk/benguturk.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "KRT TV",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/KRT_Logo_2023.webp",
+    "url": "yt=v5srSbD2WBk",
+    "category": "haber"
+  },
+  {
+    "name": "YOL Tv",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gM5HlRnRXUU4S-HW-dPwXLczvWBMdXohZQ&s",
+    "url": "https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "Bloomberg HT",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bloomberg_HT_logo.svg/2560px-Bloomberg_HT_logo.svg.png",
+    "url": "https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "Flash Haber",
+    "img": "https://cdn.digiturkburada.com.tr/kanal3/kanal-buyuk/flash-haber-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",
+    "url": "https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "Tv Net",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Tvnet.png",
+    "url": "https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "GZT TV",
+    "img": "",
+    "url": "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "BRT 1",
+    "img": "https://brtk.net/wp-content/uploads/2023/01/19/brt1_.webp",
+    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt1hd/bant1/playlist.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "BRT 2",
+    "img": "https://brtk.net/wp-content/uploads/2023/01/19/brt2.webp",
+    "url": "https://sc-kuzeykibrissmarttv.ercdn.net/brt2hd/bant1/playlist.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "AKİT TV",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/thumb/c/cf/Akit_TV.png/640px-Akit_TV.png",
+    "url": "https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "LİDER HABER TV",
+    "img": "https://i.ibb.co/mHt7rQf/Tryerel.png",
+    "url": "https://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8",
+    "category": "haber"
+  },
+  {
+    "name": "TRT ÇOCUK",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TRT_%C3%A7ocuk_logo.png/640px-TRT_%C3%A7ocuk_logo.png",
+    "url": "https://tv-trtcocuk.medya.trt.com.tr/master.m3u8",
+    "category": "çocuk"
+  },
+  {
+    "name": "TRT DİYANET ÇOCUK",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TRT_Diyanet_%C3%87ocuk_logo.svg/2560px-TRT_Diyanet_%C3%87ocuk_logo.svg.png",
+    "url": "https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8",
+    "category": "çocuk"
+  },
+  {
+    "name": "CARTOONİTO",
+    "img": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/cartoonito.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=13518",
+    "category": "çocuk"
+  },
+  {
+    "name": "DA VİNCİ",
+    "img": "https://www.dsmart.com.tr/api/v1/public/images/kanallar/cartoonito.png",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=11907",
+    "category": "çocuk"
+  },
+  {
+    "name": "CARTOON NETWORK",
+    "img": "https://www.dsmart.com.tr/epg/images/0x60/59f19761cfef0b221f7da7fe",
+    "url": "https://xdsgo.duckdns.org/dsgo/ds.m3u8?id=13870",
+    "category": "çocuk"
+  },
+  {
+    "name": "MİNİKA GO",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/MinikaGO_logo.png",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8",
+    "category": "çocuk"
+  },
+  {
+    "name": "MİNİKA ÇOCUK",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/69/MinikaCOCUK.png",
+    "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8",
+    "category": "çocuk"
+  },
+  {
+    "name": "BABY TV HD",
+    "img": "https://upload.wikimedia.org/wikipedia/tr/4/45/BabyTV.png",
+    "url": "https://saran-live.ercdn.net/babytv/index.m3u8",
+    "category": "çocuk"
+  },
+  {
+    "name": "DİSNEY JR",
+    "img": "https://cdn.prod.website-files.com/667f4af3f4f3a7af01016661/671f11438d428784e196f075_DJ_B_Disney_OY(cyan-yellow).png",
+    "url": "https://saran-live.ercdn.net/disneyjunior/index.m3u8",
+    "category": "çocuk"
+  },
+  {
+    "name": "KRAL ŞAKİR",
+    "img": "https://media-cdn.t24.com.tr/media/library/2021/06/1623054903826-kral.jpg",
+    "url": "yt=5Whk9MVTpI4",
+    "category": "çocuk"
+  },
+  {
+    "name": "KUKULİ",
+    "img": "https://izmottvsc19.tvplus.com.tr:33207/CPS/images/universal/film/poster/202304/20230424/60/202304240715137412gd_op.jpg",
+    "url": "yt=fERdV9iVSK4",
+    "category": "çocuk"
+  },
+  {
+    "name": "KÜÇÜK KAMYON LEO",
+    "img": "https://i.pinimg.com/222x/89/8d/3b/898d3b54ba234570bac5f7cb1aa4c7f6.jpg",
+    "url": "yt=a-7qWbCCd9M",
+    "category": "çocuk"
+  }
+]
