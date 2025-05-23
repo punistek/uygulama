@@ -582,9 +582,16 @@
     "category": "spor"
   },
   {
-    "name": "BEİN SPORTS XTV",
+    "name": "TVX+ SPORTS",
+    "img": "https://i.hizliresim.com/8xte9vx.png",
+    "url": "https://raw.githubusercontent.com/GkNdev/da231daxaa2121dadaxaasd/refs/heads/main/i.m3u8",
+    "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
+    "category": "spor"
+  },
+  {
+    "name": "BEİN SPORTS TVX+",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png",
-    "url": "https://raw.githubusercontent.com/ankaphoe/Deneme/refs/heads/main/pal.m3u8",
+    "url": "https://raw.githubusercontent.com/GkNdev/da231daxaa2121dadaxaasd/refs/heads/main/x.m3u8",
     "useragent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Mobile Safari/537.36",
     "category": "spor"
   },
@@ -991,7 +998,7 @@
   {
     "name": "TRT HABER",
     "img": "https://i.hizliresim.com/i5iat0a.png",
-    "url": "https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8",
+    "url": "https://tv-trthaber.medya.trt.com.tr/master.m3u8",
     "category": "haber"
   },
   {
